@@ -54,20 +54,19 @@
 
 *Compile software from source code.*
 
-* [dmd](https://github.com/D-Programming-Language/dmd) - The reference compiler for the D programming language.
-* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler.
-* [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler.
-* [sdc](https://github.com/deadalnix/SDC) - The Stupid D Compiler. Written in D.
+* [dmd](https://github.com/D-Programming-Language/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and prototype/dev mode. Currently implmented in C++, but is in the process of converting to D implementation.
+* [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the dmd frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all target platforms as LLVM does.
+* [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use dmd frontend and GCC backend. Currently targets the most platforms due to GCC. Generated code runs faster than dmd in most cases, on par with ldc. In the process of integrating in GCC toolchain.
+* [sdc](https://github.com/deadalnix/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day.
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
-
 
 
 ## Build Tools
 
 *Manage projcets and compile software from source code.*
 
-* [dub](https://github.com/D-Programming-Language/dub) - (Official) Package and build management system for D
-
+* [dub](https://github.com/D-Programming-Language/dub) - (Official) Package and build management system for D. It's now the de facto package manager and builder for D, and will be included officially soon.
+* [scons-d](http://scons.org/) - Scons has builtin support for building D projects, thanks to Russel Winder.
 
 ## IDE
 
