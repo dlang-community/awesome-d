@@ -108,6 +108,17 @@
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
+## Database clients
+*Clients and bindings to C bliencts for relational and nosql databases.*
+
+* [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon they would be separated out to be independent projects.
+* [mysql-native](https://github.com/rejectedsoftware/mysql-native) - A MySQL client implemented in native D. Also the version is still 0.0.15, it is quite usable now.
+* [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently, only PostgreSQL client. 
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D.Ruppe's library, in addition to Web stuff, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+* [ddbc](https://github.com/buggins/ddbc) - DDBC is DB Connector for D language (similar to JDBC), hibernated is based on ddbc.
+* [hibernated](https://github.com/buggins/hibernated) - HibernateD is ORM for D language (similar to Hibernate).
+* [dvorm](https://github.com/rikkimax/Dvorm) - An orm for D with Vibe support. works with vibe.d and mysql-d, so it can access mongodb and mysql-d.
+
 ## Command Line
 * [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise).
