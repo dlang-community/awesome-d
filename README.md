@@ -4,10 +4,15 @@
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   
 - [Awesome D](#awesome-d)
-	- [Package Management](#package-management)
-	- [Compilers](#compilers)
-	- [Build Tools](#build-tools)
-	- [IDE](#ide)
+	- Language Related 
+		- [Package Management](#package-management)
+		- [Compilers](#compilers)
+		- [Build Tools](#build-tools)
+		- [IDE](#ide)
+		- [Lexers, Parsers, Generators](#exers-parsers-parser-generators)
+	- Web Related
+		- [Web Framework](#web-frameworks)
+	- Database
 
 
 ## Package Management
@@ -56,4 +61,9 @@
 * [ctpg](https://github.com/youkei/ctpg) - Compile-Time Parser (with converter) Generator in D programming language.
 * [dunnart](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator for the D Programming Language.
 
+## Web Frameworks
+
+* [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
+* [arsd](https://github.com/adamdruppe/arsd) - Adam Ruppe's web framework.
+* [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
