@@ -3,8 +3,8 @@
 
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   
-  I created this list so that when I needed something in the future, it would be easy to find. Most documents and links are collected from [D forum](http://forum.dlang.org), [D wiki](http://wiki.dlang.org), and [D package repository](http://code.dlang.org). Of cause, exploring github helps a lot as MOST of the libs are hosted on github.
-  
+  I created this list so that when I needed something in the future, it would be easy to find. Most documents and links are collected from [D forum](http://forum.dlang.org), [D wiki](http://wiki.dlang.org), and [D package repository](http://code.dlang.org). Exploring github also helps a lot as MOST of the libs are hosted on github.
+ 
 - [Awesome D](#awesome-d)
 	- Basic Information
 		- [Official Website](#official-website)
