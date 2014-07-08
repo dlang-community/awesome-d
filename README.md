@@ -3,10 +3,13 @@
 
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   
+  I created this list so that when I needed something in the future, it would be easy to find. Most documents and links are collected from [D forum](http://forum.dlang.org), [D wiki](http://wiki.dlang.org), and [D package repository](http://code.dlang.org). Of cause, exploring github helps a lot as MOST of the libs are hosted on github.
+  
 - [Awesome D](#awesome-d)
 	- Basic Information
 		- [Official Website](#official-website)
 		- [People](#people)
+		- [Organizations](#organizations)
 	- Language Related 
 		- [Package Management](#package-management)
 		- [Compilers](#compilers)
@@ -20,6 +23,7 @@
 	- Web Related
 		- [Web Frameworks](#web-frameworks)
 	- Database
+		- [Database clients](#database-clients)
 	- Others
 		- [Command Line](#command-line)
 
@@ -31,8 +35,9 @@
 * [dlang.org](http://dlang.org) - Official website for D.
 * [wiki.dlang.org](http://wiki.dlang.org) - Offical Wiki for D.
 * [Github Organization](https://github.com/D-Programming-Language) - D Official Github organization. Repo for all D official tools & codes.
-* [forum.dlang.org](http://forum.dlang.org/) - Offical Forum.
+* [forum.dlang.org](http://forum.dlang.org/) - Offical Forum. Lots of interesting discussions happens EVERY DAY.
 * [Language Specification](http://dlang.org/spec.html) - D programming language specification.
+* [Issue tracking](https://issues.dlang.org/) - Offical issue tracking/reporting system for D. If you find bugs about D compilers and libraries, please come and report!
 
 
 ## Package Management
