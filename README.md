@@ -4,6 +4,9 @@
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   
 - [Awesome D](#awesome-d)
+	- Basic Information
+		- [Official Website](#official-website)
+		- [People](#people)
 	- Language Related 
 		- [Package Management](#package-management)
 		- [Compilers](#compilers)
@@ -15,11 +18,21 @@
 		- [Tutorials](#tutorials)
 		- [API Doc](#api-docs)
 	- Web Related
-		- [Web Framework](#web-frameworks)
+		- [Web Frameworks](#web-frameworks)
 	- Database
 	- Others
 		- [Command Line](#command-line)
+
 		
+## Official Website
+
+*Official Website urls.*
+
+* [dlang.org](http://dlang.org) - Official website for D.
+* [wiki.dlang.org](http://wiki.dlang.org) - Offical Wiki for D.
+* [Github Organization](https://github.com/D-Programming-Language) - D Official Github organization. Repo for all D official tools & codes.
+* [forum.dlang.org](http://forum.dlang.org/) - Offical Forum.
+* [Language Specification](http://dlang.org/spec.html) - D programming language specification.
 
 
 ## Package Management
@@ -79,7 +92,7 @@
 *D related tutorials.*
 * [Pragmatic D tutorial](http://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
 * [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
-* [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very instereting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UCFS for functional style programming.
+* [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UCFS for functional style programming.
 * [Component programmiong in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that elicits how D's functional support leads to a flexible and beautiful component programming style.
 
 ## Web Frameworks
