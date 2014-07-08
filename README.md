@@ -13,6 +13,9 @@
 	- Web Related
 		- [Web Framework](#web-frameworks)
 	- Database
+	- Others
+		- [Command Line](#command-line)
+		
 
 
 ## Package Management
@@ -67,3 +70,6 @@
 * [arsd](https://github.com/adamdruppe/arsd) - Adam Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
+## Command Line
+
+* [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise).
