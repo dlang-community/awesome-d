@@ -25,7 +25,7 @@
 	- Database
 		- [Database clients](#database-clients)
 	- GUI
-		- [GUI Libs](#GUI-libs)
+		- [GUI Libs](#gui-libs)
 	- Others
 		- [Command Line](#command-line)
 
