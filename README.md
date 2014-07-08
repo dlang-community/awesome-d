@@ -24,6 +24,8 @@
 		- [Web Frameworks](#web-frameworks)
 	- Database
 		- [Database clients](#database-clients)
+	- GUI
+		- [GUI Libs](#GUI-libs)
 	- Others
 		- [Command Line](#command-line)
 
@@ -109,3 +111,15 @@
 ## Command Line
 * [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise).
+
+## GUI Libs
+*Libraries for working with graphical user interface applications.*
+
+* [GtkD](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is the most stable GUI lib in D now.
+* [DWT](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port from Java SWT library to D. 
+* [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk
+
+*Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries). But not all of them are actively maintained now.
+
+
+
