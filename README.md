@@ -12,6 +12,7 @@
 
 *Libraries for package and dependency management.*
 
-* [dub](http://code.dlang.org/) The D official package dependency manager. Also a builder and dependency repository.
+* [code.dlang.org](http://code.dlang.org/) The offial D dependency repository. Backed by [dub](#dub)
+* [dub](http://code.dlang.org/about) The D official package dependency manager. 
 
 
