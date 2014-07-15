@@ -43,6 +43,13 @@
 * [Language Specification](http://dlang.org/spec.html) - D programming language specification.
 * [Issue tracking](https://issues.dlang.org/) - Offical issue tracking/reporting system for D. If you find bugs about D compilers and libraries, please come and report!
 
+## People
+
+*The people that made D the language it is.*
+
+* [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
+* [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively envangelizing D in the organization.
+
 
 ## Package Management
 
