@@ -27,6 +27,8 @@
 		- [Database clients](#database-clients)
 	- GUI
 		- [GUI Libs](#gui-libs)
+	- Gaming
+		- [Bindings](#gaming-bindings)
 	- Others
 		- [Command Line](#command-line)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -145,6 +147,31 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries). But not all of them are actively maintained now.
+
+## Gaming Bindings
+
+*Bindings to gaming related C liburaries.*
+
+* [DerelictOrg](https://github.com/DerelictOrg) - A github organization hosting all Derelict bindings, including bindings for:
+	* OpenGL 3 (DerelictGL3), 
+	* Bgfx (DerelictBgfx), 
+	* ENet (DerelictENet),  
+	* SDL 2 (DerelictSDL2), 
+	* GLFW 3 (DerelictGLFW3), 
+	* OpenGLES (DerelictGLES), 
+	* Free Image (DerelictFI), 
+	* Assimp3 (DerelictASSIMP3), 
+	* libtheora (DerelictTheora),  
+	* libogg (DerelictOgg), 
+	* libvorbis (DerelictVorbis), 
+	* SFML 2 (DerelictSFML2), 
+	* libpq (DerelictPQ), 
+	* PhysicsFS (DerelictPHYSFS), 
+	* Open Dynamics Engine (DerelictODE), 
+	* Lua (DerelictLua), 
+	* DevIL (DerelictIL), 
+	* OpenAL (DerelictAL), 
+	* ALURE (DerelictALURE).
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
