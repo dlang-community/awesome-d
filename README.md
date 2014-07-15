@@ -19,6 +19,7 @@
 	- Documents
 		- [Books](#books)
 		- [Tutorials](#tutorials)
+		- [Blogs](#blogs)
 		- [API Doc](#api-docs)
 	- Web Related
 		- [Web Frameworks](#web-frameworks)
@@ -102,6 +103,11 @@
 * [Component programmiong in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that elicits how D's functional support leads to a flexible and beautiful component programming style.
 * [Component programming with ranges](http://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a D idiomatic way with ranges, with a full working example.
 * [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UCFS for functional style programming.
+
+## Blogs
+*D related blogs.*
+
+* [Plannet D](http://planet.dsource.org) - A repository of co-authored D specific Blogs maintained by Vladimir Panteleev.
 
 ## Web Frameworks
 *Full stack web frameworks.*
