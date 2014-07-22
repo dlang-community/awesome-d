@@ -31,6 +31,8 @@
 		- [Bindings](#gaming-bindings)
 	- Others
 		- [Command Line](#command-line)
+		- [Logging](#logging)
+		
 - [Other Awesome Lists](#other-awesome-lists)
 
 
@@ -172,6 +174,12 @@
 	* DevIL (DerelictIL), 
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
+
+# Logging
+*Print with care.*
+
+- [logger](https://github.com/burner/logger) - Phobos logger proposal.
+
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
