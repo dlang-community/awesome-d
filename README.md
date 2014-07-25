@@ -16,6 +16,7 @@
 		- [Build Tools](#build-tools)
 		- [IDE](#ide)
 		- [Lexers, Parsers, Generators](#exers-parsers-parser-generators)
+		- [Preprocessors](#preprocessors)
 	- Documents
 		- [Books](#books)
 		- [Tutorials](#tutorials)
@@ -23,6 +24,7 @@
 		- [API Doc](#api-docs)
 	- Web Related
 		- [Web Frameworks](#web-frameworks)
+		- [Data&Serialization](#data-serialization)
 	- Database
 		- [Database clients](#database-clients)
 	- GUI
@@ -101,6 +103,11 @@
 * [ctpg](https://github.com/youkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
 * [dunnart](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D.
 
+## Preprocesors
+
+* [warp](https://github.com/facebook/warp) - A fast preprocessor for C and C++ used in facebook infrastructure. Written by Walter Bright.
+
+
 ## Books
 *D related books.*
 * [TDPL](http://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
@@ -125,6 +132,15 @@
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
+
+## Data serialization
+*Json, XML, protobuf and other data serialization libs.*
+
+* [vibe.data.json](#http://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
+* [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
+* [dproto](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
+
+
 
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
