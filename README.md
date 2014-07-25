@@ -56,6 +56,33 @@
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
 * [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively envangelizing D in the organization.
 
+## Github Organizations
+
+*Organizations in github that contribute to D projects.*
+
+* [D Programming Language](https://github.com/D-Programming-Language) - Official Organiaztion, hosts DMD, phobos and other official tools and libs.
+* [Facebook](https://github.com/facebook) - Facebook hosts a lot of libraries in many languages. Their contribution to D is the [warp](https://github.com/facebook/warp)--a preprocessor for C/C++ written in D, and [flint](https://github.com/facebook/flint)--an open-source lint program for C++.
+* [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
+	* OpenGL 3 (DerelictGL3), 
+	* Bgfx (DerelictBgfx), 
+	* ENet (DerelictENet),  
+	* SDL 2 (DerelictSDL2), 
+	* GLFW 3 (DerelictGLFW3), 
+	* OpenGLES (DerelictGLES), 
+	* Free Image (DerelictFI), 
+	* Assimp3 (DerelictASSIMP3), 
+	* libtheora (DerelictTheora),  
+	* libogg (DerelictOgg), 
+	* libvorbis (DerelictVorbis), 
+	* SFML 2 (DerelictSFML2), 
+	* libpq (DerelictPQ), 
+	* PhysicsFS (DerelictPHYSFS), 
+	* Open Dynamics Engine (DerelictODE), 
+	* Lua (DerelictLua), 
+	* DevIL (DerelictIL), 
+	* OpenAL (DerelictAL), 
+	* ALURE (DerelictALURE).
+* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 
 ## Package Management
 
