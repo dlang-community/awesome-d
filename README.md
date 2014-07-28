@@ -10,6 +10,11 @@
 		- [Official Website](#official-website)
 		- [People](#people)
 		- [Organizations](#organizations)
+	- Documents
+		- [Books](#books)
+		- [Tutorials](#tutorials)
+		- [Blogs](#blogs)
+		- [API Doc](#api-docs)
 	- Language Related 
 		- [Package Management](#package-management)
 		- [Compilers](#compilers)
@@ -17,11 +22,6 @@
 		- [IDE](#ide)
 		- [Lexers, Parsers, Generators](#exers-parsers-parser-generators)
 		- [Preprocessors](#preprocessors)
-	- Documents
-		- [Books](#books)
-		- [Tutorials](#tutorials)
-		- [Blogs](#blogs)
-		- [API Doc](#api-docs)
 	- Web Related
 		- [Web Frameworks](#web-frameworks)
 		- [Data&Serialization](#data-serialization)
@@ -44,6 +44,7 @@
 
 * [dlang.org](http://dlang.org) - Official website for D.
 * [wiki.dlang.org](http://wiki.dlang.org) - Official Wiki for D.
+* [code.dlang.org](http://code.dlang.org) - Offical Library/Module Registry for D.
 * [Github Organization](https://github.com/D-Programming-Language) - Official GitHub organization for D. Repo for all official D tools & code.
 * [forum.dlang.org](http://forum.dlang.org/) - Official forum. Many interesting discussions occurring on a daily basis.
 * [Language Specification](http://dlang.org/spec.html) - D programming language specification.
@@ -83,6 +84,28 @@
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+
+
+
+## Books
+*D related books.*
+* [TDPL](http://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
+* [Programming in D](http://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli  covering many areas of the language. Has a free online version and is suitable for beginners. 
+* [D Cookbook](http://www.packtpub.com/discover-advantages-of-programming-in-d-cookbook/book) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe.
+
+## Tutorials
+*D related tutorials.*
+* [Pragmatic D tutorial](http://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
+* [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+* [Component programming in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
+* [Component programming with ranges](http://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
+* [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
+
+## Blogs
+*D related blogs.*
+
+* [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
+
 
 ## Package Management
 
@@ -134,26 +157,6 @@
 
 * [warp](https://github.com/facebook/warp) - A fast preprocessor for C and C++ used in facebook infrastructure. Written by Walter Bright.
 
-
-## Books
-*D related books.*
-* [TDPL](http://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
-* [Programming in D](http://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli  covering many areas of the language. Has a free online version and is suitable for beginners. 
-* [D Cookbook](http://www.packtpub.com/discover-advantages-of-programming-in-d-cookbook/book) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe.
-
-## Tutorials
-*D related tutorials.*
-* [Pragmatic D tutorial](http://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
-* [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
-* [Component programming in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
-* [Component programming with ranges](http://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
-* [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
-
-## Blogs
-*D related blogs.*
-
-* [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
-
 ## Web Frameworks
 *Full stack web frameworks.*
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
@@ -163,7 +166,7 @@
 ## Data serialization
 *Json, XML, protobuf and other data serialization libs.*
 
-* [vibe.data.json](#http://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
+* [vibe.data.json](http://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [dproto](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
