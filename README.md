@@ -221,6 +221,11 @@
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 
+* [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
+* [Spacecraft](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
+
+
+
 # Logging
 *Print with care.*
 
