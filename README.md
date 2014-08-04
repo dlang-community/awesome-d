@@ -30,7 +30,9 @@
 	- GUI
 		- [GUI Libs](#gui-libs)
 	- Gaming
-		- [Bindings](#gaming-bindings)
+		- [Bindings](#gaming-development-bindings)
+		- [Frameworks](#game-frameworks)
+		- [Games](#games)
 	- Others
 		- [Command Line](#command-line)
 		- [Logging](#logging)
@@ -221,7 +223,12 @@
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 
+# Game Frameworks
+
 * [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
+
+# Games
+
 * [Spacecraft](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
 
 
