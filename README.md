@@ -30,7 +30,7 @@
 	- GUI
 		- [GUI Libs](#gui-libs)
 	- Gaming
-		- [Bindings](#gaming-development-bindings)
+		- [Bindings](#game-bindings)
 		- [Frameworks](#game-frameworks)
 		- [Games](#games)
 	- Others
@@ -198,7 +198,7 @@
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
-## Game Development Bindings
+## Game Bindings
 
 *Bindings to game development related C libraries.*
 
@@ -223,21 +223,21 @@
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 
-# Game Frameworks
+## Game Frameworks
 
 * [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
 
-# Games
+## Games
 
 * [Spacecraft](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
 
 
 
-# Logging
+## Logging
 *Print with care.*
 
 - [logger](https://github.com/burner/logger) - Phobos logger proposal.
 
 
-# Other Awesome Lists
+## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
