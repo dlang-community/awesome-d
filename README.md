@@ -9,7 +9,7 @@
 	- Basic Information
 		- [Official Website](#official-website)
 		- [People](#people)
-		- [Organizations](#organizations)
+		- [Organizations](#github-organizations)
 	- Documents
 		- [Books](#books)
 		- [Tutorials](#tutorials)
