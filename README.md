@@ -36,6 +36,7 @@
 	- Others
 		- [Command Line](#command-line)
 		- [Logging](#logging)
+		- [Configuration](#configuration)
 		
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -245,6 +246,11 @@
 
 - [logger](https://github.com/burner/logger) - Phobos logger proposal.
 
+## Configuration
+*Parsing configuration files*
+
+- [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+- [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
