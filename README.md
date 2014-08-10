@@ -259,6 +259,7 @@
 *Print with care.*
 
 - [logger](https://github.com/burner/logger) - Phobos logger proposal.
+- [dlogg](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, [logrotate](http://linuxcommand.org/man_pages/logrotate8.html) support.
 
 ## Configuration
 *Parsing configuration files*
