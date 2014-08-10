@@ -4,6 +4,9 @@
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   
   I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](http://forum.dlang.org), the [D wiki](http://wiki.dlang.org), and the [D package repository](http://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
+  
+  If you know an interesting lib/app in D, please tell me by issue or a pull request :-).
+  
  
 - [Awesome D](#awesome-d)
 	- Basic Information
@@ -63,6 +66,7 @@
 
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
 * [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively envangelizing D in the organization.
+* YOU - Please add your information if you've done something interesting in D. Also, I plan to make a request on the forum to *interview* all D contributors and complete this List.
 
 ## Organizations
 
