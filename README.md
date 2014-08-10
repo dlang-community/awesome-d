@@ -9,7 +9,7 @@
 	- Basic Information
 		- [Official Website](#official-website)
 		- [People](#people)
-		- [Organizations](#github-organizations)
+		- [Organizations](#organizations)
 	- Documents
 		- [Books](#books)
 		- [Tutorials](#tutorials)
@@ -33,6 +33,10 @@
 		- [Bindings](#game-bindings)
 		- [Frameworks](#game-frameworks)
 		- [Games](#games)
+	- Video
+		- [Applications](#video-appilcations)
+	- Image Processing
+		- [Applications](#image-processing)
 	- Others
 		- [Command Line](#command-line)
 		- [Logging](#logging)
@@ -60,9 +64,9 @@
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
 * [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively envangelizing D in the organization.
 
-## Github Organizations
+## Organizations
 
-*Organizations in github that contribute to D projects.*
+*Organizations that contribute to D projects.*
 
 * [D Programming Language](https://github.com/D-Programming-Language) - Official Organiaztion, hosts DMD, phobos and other official tools and libs.
 * [Facebook](https://github.com/facebook) - Facebook hosts a lot of libraries in many languages. Their contribution to D is the [warp](https://github.com/facebook/warp)--a preprocessor for C/C++ written in D, and [flint](https://github.com/facebook/flint)--an open-source lint program for C++.
@@ -90,6 +94,7 @@
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 * [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
+* [infognition](https://bitbucket.org/infognition) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on bitbucket. They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 
 ## Books
 *D related books.*
@@ -239,7 +244,11 @@
 
 * [Spacecraft](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
 
+## Video appications
 
+## Image Processing
+
+* [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
 
 ## Logging
 *Print with care.*
