@@ -1,4 +1,4 @@
-#!/usb/bin/rdmd
+#!/usr/bin/rdmd
 
 import std.stdio;
 
