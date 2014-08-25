@@ -17,6 +17,7 @@
 		- [Books](#books)
 		- [Tutorials](#tutorials)
 		- [Blogs](#blogs)
+		- [Articles](#articles)
 		- [API Doc](#api-docs)
 	- Language Related 
 		- [Package Management](#package-management)
@@ -119,6 +120,11 @@
 *D related blogs.*
 
 * [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
+
+## Articles
+*D related Aritcles.*
+
+* [Purity in D](http://klickverbot.at/blog/2012/05/purity-in-d/) - An article that explains the design principles behind D's purity feature.
 
 
 ## Package Management
