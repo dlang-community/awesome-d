@@ -12,6 +12,7 @@
 	- Basic Information
 		- [Official Website](#official-website)
 		- [People](#people)
+		- [Events](#events)
 		- [Organizations](#organizations)
 	- Documents
 		- [Books](#books)
@@ -68,6 +69,10 @@
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
 * [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively envangelizing D in the organization.
 * **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. Also, I plan to make a request on the forum to *interview* all D contributors and complete this List.
+
+## Events
+
+* [DConf](http://dconf.org/) - the premier event where D luminaries exchange knowledge, insight, and inspiration on everything related to the D language and its ecosystem.
 
 ## Organizations
 
