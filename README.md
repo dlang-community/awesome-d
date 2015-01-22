@@ -173,6 +173,8 @@
 * [Visual D](https://github.com/D-Programming-Language/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://code.google.com/p/ddt/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/tree/master/editors).
+* [Coedit](https://github.com/BBasile/Coedit) - Multiplatform IDE for the D programming language. 
+
 
  
 ## Lexers, Parsers, Parser Generators
