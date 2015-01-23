@@ -174,7 +174,7 @@
 * [DDT](http://code.google.com/p/ddt/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/tree/master/editors).
 * [Coedit](https://github.com/BBasile/Coedit) - Multiplatform IDE for the D programming language. 
-
+* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 
  
 ## Lexers, Parsers, Parser Generators
