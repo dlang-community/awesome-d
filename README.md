@@ -131,6 +131,7 @@
 *D related blogs.*
 
 * [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
+* [D Idioms](http://p0nce.github.io/d-idioms/) - A great blog for many useful idioms with D programming.
 
 ## Articles
 *D related Aritcles.*
