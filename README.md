@@ -27,7 +27,8 @@
 		- [IDE](#ide)
 		- [Lexers, Parsers, Generators](#exers-parsers-parser-generators)
 		- [Preprocessors](#preprocessors)
-	- Web Related
+	- Networking/Web Related
+		- [Networking](#networking-library)
 		- [Web Frameworks](#web-frameworks)
 		- [Data&Serialization](#data-serialization)
 	- Database
@@ -193,6 +194,11 @@
 * [warp](https://github.com/facebook/warp) - A fast preprocessor for C and C++ used in facebook infrastructure. Written by Walter Bright.
 
 ## Web Frameworks
+
+*Networking library*
+* [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
+* [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
+
 *Full stack web frameworks.*
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
