@@ -9,44 +9,44 @@
 
 
 - [Awesome D](#awesome-d)
-    - Basic Information
-        - [Official Website](#official-website)
-        - [People](#people)
-        - [Events](#events)
-        - [Organizations](#organizations)
-    - Documents
-        - [Books](#books)
-        - [Tutorials](#tutorials)
-        - [Blogs](#blogs)
-        - [Articles](#articles)
-        - [API Doc](#api-docs)
-    - Language Related
-        - [Package Management](#package-management)
-        - [Compilers](#compilers)
-        - [Build Tools](#build-tools)
-        - [IDE](#ide)
-        - [Lexers, Parsers, Generators](#exers-parsers-parser-generators)
-        - [Preprocessors](#preprocessors)
-    - Networking/Web Related
-        - [Networking](#networking-library)
-        - [Web Frameworks](#web-frameworks)
-        - [Data&Serialization](#data-serialization)
-    - Database
-        - [Database clients](#database-clients)
-    - GUI
-        - [GUI Libs](#gui-libs)
-    - Gaming
-        - [Bindings](#game-bindings)
-        - [Frameworks](#game-frameworks)
-        - [Games](#games)
-    - Video
-        - [Applications](#video-appilcations)
-    - Image Processing
-        - [Applications](#image-processing)
-    - Others
-        - [Command Line](#command-line)
-        - [Logging](#logging)
-        - [Configuration](#configuration)
+	- Basic Information
+		- [Official Website](#official-website)
+		- [People](#people)
+		- [Events](#events)
+		- [Organizations](#organizations)
+	- Documents
+		- [Books](#books)
+		- [Tutorials](#tutorials)
+		- [Blogs](#blogs)
+		- [Articles](#articles)
+		- [API Doc](#api-docs)
+	- Language Related
+		- [Package Management](#package-management)
+		- [Compilers](#compilers)
+		- [Build Tools](#build-tools)
+		- [IDE](#ide)
+		- [Lexers, Parsers, Generators](#exers-parsers-parser-generators)
+		- [Preprocessors](#preprocessors)
+	- Networking/Web Related
+		- [Networking](#networking-library)
+		- [Web Frameworks](#web-frameworks)
+		- [Data&Serialization](#data-serialization)
+	- Database
+		- [Database clients](#database-clients)
+	- GUI
+		- [GUI Libs](#gui-libs)
+	- Gaming
+		- [Bindings](#game-bindings)
+		- [Frameworks](#game-frameworks)
+		- [Games](#games)
+	- Video
+		- [Applications](#video-appilcations)
+	- Image Processing
+		- [Applications](#image-processing)
+	- Others
+		- [Command Line](#command-line)
+		- [Logging](#logging)
+		- [Configuration](#configuration)
 
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -83,25 +83,25 @@
 * [Facebook](https://github.com/facebook) - Facebook hosts a lot of libraries in many languages. Their contribution to D is the [warp](https://github.com/facebook/warp)--a preprocessor for C/C++ written in D, and [flint](https://github.com/facebook/flint)--an open-source lint program for C++.
 
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
-    * OpenGL 3 (DerelictGL3),
-    * Bgfx (DerelictBgfx),
-    * ENet (DerelictENet),  
-    * SDL 2 (DerelictSDL2),
-    * GLFW 3 (DerelictGLFW3),
-    * OpenGLES (DerelictGLES),
-    * Free Image (DerelictFI),
-    * Assimp3 (DerelictASSIMP3),
-    * libtheora (DerelictTheora),  
-    * libogg (DerelictOgg),
-    * libvorbis (DerelictVorbis),
-    * SFML 2 (DerelictSFML2),
-    * libpq (DerelictPQ),
-    * PhysicsFS (DerelictPHYSFS),
-    * Open Dynamics Engine (DerelictODE),
-    * Lua (DerelictLua),
-    * DevIL (DerelictIL),
-    * OpenAL (DerelictAL),
-    * ALURE (DerelictALURE).
+	* OpenGL 3 (DerelictGL3),
+	* Bgfx (DerelictBgfx),
+	* ENet (DerelictENet),  
+	* SDL 2 (DerelictSDL2),
+	* GLFW 3 (DerelictGLFW3),
+	* OpenGLES (DerelictGLES),
+	* Free Image (DerelictFI),
+	* Assimp3 (DerelictASSIMP3),
+	* libtheora (DerelictTheora),  
+	* libogg (DerelictOgg),
+	* libvorbis (DerelictVorbis),
+	* SFML 2 (DerelictSFML2),
+	* libpq (DerelictPQ),
+	* PhysicsFS (DerelictPHYSFS),
+	* Open Dynamics Engine (DerelictODE),
+	* Lua (DerelictLua),
+	* DevIL (DerelictIL),
+	* OpenAL (DerelictAL),
+	* ALURE (DerelictALURE).
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 * [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
@@ -248,25 +248,25 @@
 *Bindings to game development related C libraries.*
 
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
-    * OpenGL 3 (DerelictGL3),
-    * Bgfx (DerelictBgfx),
-    * ENet (DerelictENet),  
-    * SDL 2 (DerelictSDL2),
-    * GLFW 3 (DerelictGLFW3),
-    * OpenGLES (DerelictGLES),
-    * Free Image (DerelictFI),
-    * Assimp3 (DerelictASSIMP3),
-    * libtheora (DerelictTheora),  
-    * libogg (DerelictOgg),
-    * libvorbis (DerelictVorbis),
-    * SFML 2 (DerelictSFML2),
-    * libpq (DerelictPQ),
-    * PhysicsFS (DerelictPHYSFS),
-    * Open Dynamics Engine (DerelictODE),
-    * Lua (DerelictLua),
-    * DevIL (DerelictIL),
-    * OpenAL (DerelictAL),
-    * ALURE (DerelictALURE).
+	* OpenGL 3 (DerelictGL3),
+	* Bgfx (DerelictBgfx),
+	* ENet (DerelictENet),  
+	* SDL 2 (DerelictSDL2),
+	* GLFW 3 (DerelictGLFW3),
+	* OpenGLES (DerelictGLES),
+	* Free Image (DerelictFI),
+	* Assimp3 (DerelictASSIMP3),
+	* libtheora (DerelictTheora),  
+	* libogg (DerelictOgg),
+	* libvorbis (DerelictVorbis),
+	* SFML 2 (DerelictSFML2),
+	* libpq (DerelictPQ),
+	* PhysicsFS (DerelictPHYSFS),
+	* Open Dynamics Engine (DerelictODE),
+	* Lua (DerelictLua),
+	* DevIL (DerelictIL),
+	* OpenAL (DerelictAL),
+	* ALURE (DerelictALURE).
 
 ## Game Frameworks
 
