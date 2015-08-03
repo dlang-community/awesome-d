@@ -2,12 +2,12 @@
 =========
 
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
-
+  
   I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](http://forum.dlang.org), the [D wiki](http://wiki.dlang.org), and the [D package repository](http://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
-
+  
   If you know an interesting lib/app in D, please tell me by issue or a pull request :-).
-
-
+  
+ 
 - [Awesome D](#awesome-d)
 	- Basic Information
 		- [Official Website](#official-website)
@@ -20,7 +20,7 @@
 		- [Blogs](#blogs)
 		- [Articles](#articles)
 		- [API Doc](#api-docs)
-	- Language Related
+	- Language Related 
 		- [Package Management](#package-management)
 		- [Compilers](#compilers)
 		- [Build Tools](#build-tools)
@@ -47,7 +47,7 @@
 		- [Command Line](#command-line)
 		- [Logging](#logging)
 		- [Configuration](#configuration)
-
+		
 - [Other Awesome Lists](#other-awesome-lists)
 
 
@@ -83,24 +83,24 @@
 * [Facebook](https://github.com/facebook) - Facebook hosts a lot of libraries in many languages. Their contribution to D is the [warp](https://github.com/facebook/warp)--a preprocessor for C/C++ written in D, and [flint](https://github.com/facebook/flint)--an open-source lint program for C++.
 
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
-	* OpenGL 3 (DerelictGL3),
-	* Bgfx (DerelictBgfx),
+	* OpenGL 3 (DerelictGL3), 
+	* Bgfx (DerelictBgfx), 
 	* ENet (DerelictENet),  
-	* SDL 2 (DerelictSDL2),
-	* GLFW 3 (DerelictGLFW3),
-	* OpenGLES (DerelictGLES),
-	* Free Image (DerelictFI),
-	* Assimp3 (DerelictASSIMP3),
+	* SDL 2 (DerelictSDL2), 
+	* GLFW 3 (DerelictGLFW3), 
+	* OpenGLES (DerelictGLES), 
+	* Free Image (DerelictFI), 
+	* Assimp3 (DerelictASSIMP3), 
 	* libtheora (DerelictTheora),  
-	* libogg (DerelictOgg),
-	* libvorbis (DerelictVorbis),
-	* SFML 2 (DerelictSFML2),
-	* libpq (DerelictPQ),
-	* PhysicsFS (DerelictPHYSFS),
-	* Open Dynamics Engine (DerelictODE),
-	* Lua (DerelictLua),
-	* DevIL (DerelictIL),
-	* OpenAL (DerelictAL),
+	* libogg (DerelictOgg), 
+	* libvorbis (DerelictVorbis), 
+	* SFML 2 (DerelictSFML2), 
+	* libpq (DerelictPQ), 
+	* PhysicsFS (DerelictPHYSFS), 
+	* Open Dynamics Engine (DerelictODE), 
+	* Lua (DerelictLua), 
+	* DevIL (DerelictIL), 
+	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 * [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
@@ -110,7 +110,7 @@
 ## Books
 *D related books.*
 * [TDPL](http://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
-* [Programming in D](http://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli  covering many areas of the language. Has a free online version and is suitable for beginners.
+* [Programming in D](http://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli  covering many areas of the language. Has a free online version and is suitable for beginners. 
 * [D Cookbook](http://www.packtpub.com/discover-advantages-of-programming-in-d-cookbook/book) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](http://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
 
 ## Tutorials
@@ -148,7 +148,7 @@
 * [code.dlang.org](http://code.dlang.org/) - Official D library repository. Backed by dub.
 * [dub](https://github.com/D-Programming-Language/dub) - Official package and build management system for D.
 
-
+ 
 ## Compilers
 
 *Compile software from source code.*
@@ -175,10 +175,10 @@
 * [Visual D](https://github.com/D-Programming-Language/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://code.google.com/p/ddt/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/tree/master/editors).
-* [Coedit](https://github.com/BBasile/Coedit) - Multiplatform IDE for the D programming language.
+* [Coedit](https://github.com/BBasile/Coedit) - Multiplatform IDE for the D programming language. 
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 
-
+ 
 ## Lexers, Parsers, Parser Generators
 
 * [libdparse](https://github.com/Hackerpilot/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
@@ -236,9 +236,9 @@
 *Libraries for working with graphical user interface applications.*
 
 * [GtkD](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
-* [DWT](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D.
+* [DWT](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. 
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
-* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language.
+* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. 
 
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
@@ -248,24 +248,24 @@
 *Bindings to game development related C libraries.*
 
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
-	* OpenGL 3 (DerelictGL3),
-	* Bgfx (DerelictBgfx),
+	* OpenGL 3 (DerelictGL3), 
+	* Bgfx (DerelictBgfx), 
 	* ENet (DerelictENet),  
-	* SDL 2 (DerelictSDL2),
-	* GLFW 3 (DerelictGLFW3),
-	* OpenGLES (DerelictGLES),
-	* Free Image (DerelictFI),
-	* Assimp3 (DerelictASSIMP3),
+	* SDL 2 (DerelictSDL2), 
+	* GLFW 3 (DerelictGLFW3), 
+	* OpenGLES (DerelictGLES), 
+	* Free Image (DerelictFI), 
+	* Assimp3 (DerelictASSIMP3), 
 	* libtheora (DerelictTheora),  
-	* libogg (DerelictOgg),
-	* libvorbis (DerelictVorbis),
-	* SFML 2 (DerelictSFML2),
-	* libpq (DerelictPQ),
-	* PhysicsFS (DerelictPHYSFS),
-	* Open Dynamics Engine (DerelictODE),
-	* Lua (DerelictLua),
-	* DevIL (DerelictIL),
-	* OpenAL (DerelictAL),
+	* libogg (DerelictOgg), 
+	* libvorbis (DerelictVorbis), 
+	* SFML 2 (DerelictSFML2), 
+	* libpq (DerelictPQ), 
+	* PhysicsFS (DerelictPHYSFS), 
+	* Open Dynamics Engine (DerelictODE), 
+	* Lua (DerelictLua), 
+	* DevIL (DerelictIL), 
+	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 
 ## Game Frameworks
