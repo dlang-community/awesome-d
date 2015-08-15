@@ -47,6 +47,7 @@
 		- [Command Line](#command-line)
 		- [Logging](#logging)
 		- [Configuration](#configuration)
+		- [BlogEngine](#blog-engine)
 		
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -298,6 +299,12 @@
 
 - [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 - [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language.
+
+## Blog Engine
+*Hosting blogs yourself*
+
+- [mood](https://github.com/Dicebot/mood) - simple vibe.d based blog engine
+
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
