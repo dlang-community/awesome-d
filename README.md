@@ -43,6 +43,8 @@
 		- [Applications](#video-appilcations)
 	- Image Processing
 		- [Applications](#image-processing)
+	- Scientific
+		- [Scientific](#scientific)
 	- Others
 		- [Command Line](#command-line)
 		- [Logging](#logging)
@@ -287,6 +289,12 @@
 
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 * [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
+
+## Scientific
+*Scientific programming*
+
+*[scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+
 
 ## Logging
 *Print with care.*
