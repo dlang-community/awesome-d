@@ -242,6 +242,8 @@
 * [DWT](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. 
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 * [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. 
+* [cobox-wm](https://github.com/Faianca/cobox-wm) - CteamBox Window Manager in D programming Language
+
 
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
