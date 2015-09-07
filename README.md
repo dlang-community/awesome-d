@@ -71,7 +71,7 @@
 *The people that made D the language it is.*
 
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
-* [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively envangelizing D in the organization.
+* [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a research scientist in Facebook and is now actively evangelizing D in the organization.
 * **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. Also, I plan to make a request on the forum to *interview* all D contributors and complete this List.
 
 ## Events
@@ -82,7 +82,7 @@
 
 *Organizations that contribute to D projects.*
 
-* [D Programming Language](https://github.com/D-Programming-Language) - Official Organiaztion, hosts DMD, phobos and other official tools and libs.
+* [D Programming Language](https://github.com/D-Programming-Language) - Official Organization, hosts DMD, Phobos and other official tools and libs.
 * [Facebook](https://github.com/facebook) - Facebook hosts a lot of libraries in many languages. Their contribution to D is the [warp](https://github.com/facebook/warp)--a preprocessor for C/C++ written in D, and [flint](https://github.com/facebook/flint)--an open-source lint program for C++.
 
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
@@ -141,7 +141,7 @@
 *D related Aritcles.*
 
 * [Purity in D](http://klickverbot.at/blog/2012/05/purity-in-d/) - An article that explains the design principles behind D's purity feature.
-* [Hidden treasures in the D standard library](http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - An article talking about several useful functions and templates in phobos.
+* [Hidden treasures in the D standard library](http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - An article talking about several useful functions and templates in Phobos.
 * [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 
 ## Package Management
@@ -194,7 +194,7 @@
 
 ## Preprocesors
 
-* [warp](https://github.com/facebook/warp) - A fast preprocessor for C and C++ used in facebook infrastructure. Written by Walter Bright.
+* [warp](https://github.com/facebook/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
 ## Web Frameworks
 
