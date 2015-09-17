@@ -25,7 +25,7 @@
 		- [Compilers](#compilers)
 		- [Build Tools](#build-tools)
 		- [IDE](#ide)
-		- [Lexers, Parsers, Generators](#exers-parsers-parser-generators)
+		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
 		- [Preprocessors](#preprocessors)
 	- Networking/Web Related
 		- [Networking](#networking-library)
