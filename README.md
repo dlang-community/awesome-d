@@ -29,7 +29,6 @@
 		- [Preprocessors](#preprocessors)
 	- Compiler for other languages
 		- [Javascript](#javascript)
-		- [Venus](#venus)
 	- Networking/Web Related
 		- [Networking](#networking-library)
 		- [Web Frameworks](#web-frameworks)
@@ -202,8 +201,6 @@
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
-## Venus
-* [venus](https://github.com/zhaopuming/Venus) - The Venus programming language, implemented in D. Currently a very early stage.
 
 ## Web Frameworks
 
