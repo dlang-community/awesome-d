@@ -217,6 +217,7 @@
 *Json, XML, protobuf and other data serialization libs.*
 
 * [vibe.data.json](http://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
+* [fast.json](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [dproto](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
