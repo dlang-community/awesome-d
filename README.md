@@ -292,7 +292,7 @@
 
 * [Spacecraft](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
 
-## Video appications
+## Video applications
 
 ## Image Processing
 
