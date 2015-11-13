@@ -250,6 +250,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 * [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. 
 * [cobox-wm](https://github.com/Faianca/cobox-wm) - CteamBox Window Manager in D programming Language
+* [Sciter-DPort](https://github.com/midiway/sciter-dport) - Sciter engine D bindings for making HTML based desktop apps
 
 
 
