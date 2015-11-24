@@ -37,6 +37,8 @@
 		- [Database clients](#database-clients)
 	- GUI
 		- [GUI Libs](#gui-libs)
+	- OS
+		- [Operating Systems](#os)
 	- Gaming
 		- [Bindings](#game-bindings)
 		- [Frameworks](#game-frameworks)
@@ -255,6 +257,13 @@
 
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
+
+## OS
+
+*Operating Systems written in D*
+
+* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D 
+* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D 
 
 ## Game Bindings
 
