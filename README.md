@@ -109,6 +109,7 @@
 	* DevIL (DerelictIL), 
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
+* [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 * [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
@@ -312,7 +313,9 @@
 ## Scientific
 *Scientific programming*
 
-*[scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+* [scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+* [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D. 
+* [mir](https://github.com/DlangScience/mir) -  Generic Numeric Library. Include the ndslice package that is comming into std.
 
 
 ## Logging
