@@ -87,28 +87,8 @@
 *Organizations that contribute to D projects.*
 
 * [D Programming Language](https://github.com/D-Programming-Language) - Official Organization, hosts DMD, Phobos and other official tools and libs.
-* [Facebook](https://github.com/facebook) - Facebook hosts a lot of libraries in many languages. Their contribution to D is the [warp](https://github.com/facebookarchive/warp)--a preprocessor for C/C++ written in D, and [flint](https://github.com/facebookarchive/flint)--an open-source lint program for C++.
-
-* [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
-	* OpenGL 3 (DerelictGL3), 
-	* Bgfx (DerelictBgfx), 
-	* ENet (DerelictENet),  
-	* SDL 2 (DerelictSDL2), 
-	* GLFW 3 (DerelictGLFW3), 
-	* OpenGLES (DerelictGLES), 
-	* Free Image (DerelictFI), 
-	* Assimp3 (DerelictASSIMP3), 
-	* libtheora (DerelictTheora),  
-	* libogg (DerelictOgg), 
-	* libvorbis (DerelictVorbis), 
-	* SFML 2 (DerelictSFML2), 
-	* libpq (DerelictPQ), 
-	* PhysicsFS (DerelictPHYSFS), 
-	* Open Dynamics Engine (DerelictODE), 
-	* Lua (DerelictLua), 
-	* DevIL (DerelictIL), 
-	* OpenAL (DerelictAL), 
-	* ALURE (DerelictALURE).
+* [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
+* [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 * [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 * [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
