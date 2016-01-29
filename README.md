@@ -238,8 +238,6 @@
 * [GtkD](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
 * [DWT](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. 
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
-* [cobox-wm](https://github.com/Faianca/cobox-wm) - CteamBox Window Manager in D programming Language
-* [Sciter-DPort](https://github.com/midiway/sciter-dport) - Sciter engine D bindings for making HTML based desktop apps
 
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
