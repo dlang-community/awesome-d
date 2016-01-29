@@ -287,6 +287,7 @@
 ## Games
 
 * [Spacecraft](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
+* [Dtanks](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
 
 ## Video applications
 
