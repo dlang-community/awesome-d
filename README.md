@@ -52,6 +52,7 @@
 	- Scientific
 		- [Scientific](#scientific)
 	- Others
+		- [Text Processing](#text-processing)
 		- [Command Line](#command-line)
 		- [Logging](#logging)
 		- [Configuration](#configuration)
@@ -313,6 +314,9 @@
 * [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D. 
 * [mir](https://github.com/DlangScience/mir) -  Generic Numeric Library. Include the ndslice package that is comming into std.
 
+## Text Processing
+
+* [tvs-utils](https://github.com/eBay/tsv-utils-dlang) Command line utilities for tab-separated value files written in the D programming language. Very fast.
 
 ## Logging
 *Print with care.*
