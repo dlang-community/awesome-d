@@ -312,7 +312,7 @@
 
 * [scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 * [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D. 
-* [mir](https://github.com/DlangScience/mir) -  Generic Numeric Library. Include the ndslice package that is comming into std.
+* [mir](https://github.com/DlangScience/mir) -  Generic Numeric Library for Science and Machine Learning. Development version of the [std.experimental.ndslice](http://dlang.org/phobos/std_experimental_ndslice.html) module and work-in-progress hub for future numerical additions to Phobos.
 
 ## Text Processing
 
