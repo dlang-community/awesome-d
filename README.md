@@ -218,8 +218,13 @@
 * [fast.json](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
+* [std.data.join](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
+* [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes.
 
+### XML
 
+* [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
+* [std.experimental.xml](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
