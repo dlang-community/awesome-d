@@ -161,6 +161,10 @@
 
 * [dub](https://github.com/D-Programming-Language/dub) - De facto official package and build management system for D. Will be included officially soon.
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
+* [premake](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
+* [reggae](https://github.com/atilaneves/reggae) - meta build system in D
+* [Makefile](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
+* [cmake-d](https://github.com/dcarp/cmake-d) - CMake D Projects
 
 ## IDE
 
@@ -336,7 +340,6 @@
 *Hosting blogs yourself*
 
 - [mood](https://github.com/Dicebot/mood) - simple vibe.d based blog engine
-
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
