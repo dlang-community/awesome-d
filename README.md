@@ -163,6 +163,10 @@
 
 * [dub](https://github.com/D-Programming-Language/dub) - De facto official package and build management system for D. Will be included officially soon.
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
+* [premake](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
+* [reggae](https://github.com/atilaneves/reggae) - meta build system in D
+* [Makefile](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
+* [cmake-d](https://github.com/dcarp/cmake-d) - CMake D Projects
 
 ## IDE
 
