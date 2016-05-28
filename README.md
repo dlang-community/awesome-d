@@ -199,6 +199,9 @@
 
 ## Containers
 * [EMSI containers](https://github.com/economicmodeling/containers) -  Containers that do not use the GC 
+- [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+- [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+- [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ## Web Frameworks
 
