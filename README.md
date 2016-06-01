@@ -169,6 +169,7 @@
 * [cmake-d](https://github.com/dcarp/cmake-d) - CMake D Projects
 * [cook2](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 * [button](http://jasonwhite.github.io/button/) - A universal build system to build your software at the push of a button.
+* [wild](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex](https://github.com/Vild/PowerNex) kernel
 
 ## IDE
 
