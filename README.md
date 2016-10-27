@@ -69,7 +69,7 @@
 * [dlang.org](http://dlang.org) - Official website for D.
 * [wiki.dlang.org](http://wiki.dlang.org) - Official Wiki for D.
 * [code.dlang.org](http://code.dlang.org) - Offical Library/Module Registry for D.
-* [Github Organization](https://github.com/D-Programming-Language) - Official GitHub organization for D. Repo for all official D tools & code.
+* [Github Organization](https://github.com/dlang) - Official GitHub organization for D. Repo for all official D tools & code.
 * [forum.dlang.org](http://forum.dlang.org/) - Official forum. Many interesting discussions occurring on a daily basis.
 * [Language Specification](http://dlang.org/spec.html) - D programming language specification.
 * [Issue tracking](https://issues.dlang.org/) - Official issue tracking/reporting system for D. If you find bugs in the D compiler and/or libraries, please come and report them!
@@ -90,7 +90,7 @@
 
 *Organizations that contribute to D projects.*
 
-* [D Programming Language](https://github.com/D-Programming-Language) - Official Organization, hosts DMD, Phobos and other official tools and libs.
+* [D Programming Language](https://github.com/dlang) - Official Organization, hosts DMD, Phobos and other official tools and libs.
 * [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 * [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
@@ -143,14 +143,14 @@
 *Libraries for package and dependency management.*
 
 * [code.dlang.org](http://code.dlang.org/) - Official D library repository. Backed by dub.
-* [dub](https://github.com/D-Programming-Language/dub) - Official package and build management system for D.
+* [dub](https://github.com/dlang/dub) - Official package and build management system for D.
 
  
 ## Compilers
 
 *Compile software from source code.*
 
-* [dmd](https://github.com/D-Programming-Language/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 * [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 * [sdc](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day.
@@ -161,7 +161,7 @@
 
 *Manage projects and compile software from source code.*
 
-* [dub](https://github.com/D-Programming-Language/dub) - De facto official package and build management system for D. Will be included officially soon.
+* [dub](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 * [premake](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
 * [reggae](https://github.com/atilaneves/reggae) - meta build system in D
@@ -176,7 +176,7 @@
 *Integrated Development Environment.*
 
 * [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support.
-* [Visual D](https://github.com/D-Programming-Language/visuald) - Visual Studio extension for the D programming language.
+* [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://code.google.com/p/ddt/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [Coedit](https://github.com/BBasile/Coedit) - Multiplatform IDE for the D programming language. 
