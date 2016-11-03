@@ -218,6 +218,9 @@
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
+*RPC library*
+* [Hprose](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
+
 ## Data serialization
 *Json, XML, protobuf and other data serialization libs.*
 
