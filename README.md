@@ -212,6 +212,7 @@
 *Networking library*
 * [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
+* [collie](https://github.com/putaolabs/collie) -  An asynchronous event-driven Cross-platform network framework written in D,like facebook/wangle.
 
 *Full stack web frameworks.*
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
