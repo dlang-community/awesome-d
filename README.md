@@ -264,7 +264,7 @@
 * [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 * [dexpect](https://github.com/grogancolin/dexpect/) -  A D implementation of the expect framework. Handy for bash emulation.
 * [Argon](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D. 
-
+* [argsd]() - A command line and config file parser for DLang
 
 ## GUI Libs
 *Libraries for working with graphical user interface applications.*
