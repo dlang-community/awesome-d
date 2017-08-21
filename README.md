@@ -237,8 +237,8 @@
 * [fast.json](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
-* [std.data.join](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
-* [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes.
+* [std.data.json](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
+* [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin.
 
 ### XML
 
@@ -347,7 +347,9 @@
 
 * [scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 * [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D. 
-* [mir](https://github.com/DlangScience/mir) -  Generic Numeric Library for Science and Machine Learning. Development version of the [std.experimental.ndslice](http://dlang.org/phobos/std_experimental_ndslice.html) module and work-in-progress hub for future numerical additions to Phobos.
+* [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+* [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
+* [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
 ## Text Processing
 
