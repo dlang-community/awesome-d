@@ -353,7 +353,7 @@
 
 ## Text Processing
 
-* [tvs-utils](https://github.com/eBay/tsv-utils-dlang) Command line utilities for tab-separated value files written in the D programming language. Very fast.
+* [eBay's TSV utilities](https://ebay.github.io/tsv-utils-dlang/) Command line utilities for large delimited data files. Filtering, statistics, sampling, joins and more. Very fast.
 
 ## Logging
 *Print with care.*
