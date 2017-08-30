@@ -287,7 +287,8 @@
 *Operating Systems written in D*
 
 * [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D 
-* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D 
+* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D
+* [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## Game Bindings
 
