@@ -53,6 +53,7 @@
 		- [Scientific](#scientific)
 	- Machine Learning
 		- [Machine Learning](#machine-learning)
+	- [Parallel computing](#parallel-computing)
 	- Others
 		- [Text Processing](#text-processing)
 		- [Command Line](#command-line)
@@ -336,6 +337,8 @@
 
 ## Video applications
 
+* [DerelictGL3](https://github.com/DerelictOrg/DerelictGL3) - A dynamic binding to OpenGL for the D Programming Language.
+
 ## Image Processing
 
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
@@ -346,6 +349,12 @@
 ## Machine Learning
 
 * [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
+
+## Parallel computing
+
+* [DCompute](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
+* [DerelictCUDA](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
+* [DerelictCL](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
 
 ## Scientific
 *Scientific programming*
