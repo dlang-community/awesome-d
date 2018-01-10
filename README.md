@@ -83,7 +83,7 @@
 
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
 * [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
-* **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. Also, I plan to make a request on the forum to *interview* all D contributors and complete this List.
+* **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. 
 
 ## Events
 
@@ -370,6 +370,7 @@
 * [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
 * [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 * [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
+* [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
 
 ## Text Processing
 
