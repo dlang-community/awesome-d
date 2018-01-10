@@ -218,21 +218,24 @@
 *Networking library*
 * [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
-* [collie](https://github.com/putaolabs/collie) -  An asynchronous event-driven Cross-platform network framework written in D,like facebook/wangle.
+* [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
 
 *Full stack web frameworks.*
+* [Hunt](http://www.huntframework.com/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 * [diamond](https://github.com/DiamondMVC/Diamond/) - Powerful MVC / Template Framework inspired by ASP.NET, based on vibe.d
 
 *RPC library*
+* [kissrpc](https://github.com/huntlabs/kiss-rpc) - Fast and light, flatbuffers based rpc framework.
 * [Hprose](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
 
 ## Data serialization
 *Json, XML, protobuf and other data serialization libs.*
 
 ### Binary Serilization
+* [flatbuffers](https://github.com/huntlabs/flatbuffers) - D Programming Language implementation of the google flatbuffers library.
 * [cerealed](https://github.com/atilaneves/cerealed)  - Serialisation library for D 
 * [dproto](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
@@ -254,6 +257,9 @@
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
+* [entity](https://github.com/huntlabs/entity) - Entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
+* [dbal](https://github.com/huntlabs/dbal) - Database Abstraction Layer for dlang, can construct SQL statements.
+* [database](https://github.com/huntlabs/database) - Database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 * [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
 * [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
