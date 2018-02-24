@@ -74,6 +74,7 @@
 * [code.dlang.org](http://code.dlang.org) - Offical Library/Module Registry for D.
 * [Github Organization](https://github.com/dlang) - Official GitHub organization for D. Repo for all official D tools & code.
 * [forum.dlang.org](http://forum.dlang.org/) - Official forum. Many interesting discussions occurring on a daily basis.
+* [blog.dlang.org](https://dlang.org/blog/) - Official blog.
 * [Language Specification](http://dlang.org/spec.html) - D programming language specification.
 * [Issue tracking](https://issues.dlang.org/) - Official issue tracking/reporting system for D. If you find bugs in the D compiler and/or libraries, please come and report them!
 
@@ -131,6 +132,7 @@
 ## Blogs
 *D related blogs.*
 
+* [blog.dlang.org](https://dlang.org/blog/) - Official blog.
 * [This week in D](http://arsdnet.net/this-week-in-d) - A weekly overview of activity in the D community and brief advice columns to help you get the most out of the D Programming Language. 
 * [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
 * [D Idioms](http://p0nce.github.io/d-idioms/) - A great blog for many useful idioms with D programming.
