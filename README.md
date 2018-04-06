@@ -227,7 +227,7 @@
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
-* [diamond](https://github.com/DiamondMVC/Diamond/) - Powerful MVC / Template Framework inspired by ASP.NET, based on vibe.d
+* [Diamond](http://diamondmvc.org/) - Full-stack web-framework based on vibe.d, targetting enterprise development and high-performance web solutions for both small and big projects.
 
 *RPC library*
 * [kissrpc](https://github.com/huntlabs/kiss-rpc) - Fast and light, flatbuffers based rpc framework.
