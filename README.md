@@ -11,6 +11,7 @@
 - [Awesome D](#awesome-d)
 	- Basic Information
 		- [Official Website](#official-website)
+		- [Getting Help](#getting-help)
 		- [People](#people)
 		- [Events](#events)
 		- [Organizations](#organizations)
@@ -77,6 +78,15 @@
 * [blog.dlang.org](https://dlang.org/blog/) - Official blog.
 * [Language Specification](http://dlang.org/spec.html) - D programming language specification.
 * [Issue tracking](https://issues.dlang.org/) - Official issue tracking/reporting system for D. If you find bugs in the D compiler and/or libraries, please come and report them!
+
+## Getting Help
+
+*For when you're stuck.*
+
+* [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest traffic site for answering D questions.
+* [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than forums but possibly easier to search.
+* [#d IRC Channel](irc://irc.freenode.net/d) - Real-time chat about D (requires IRC client).
+* [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - Examples of how to do many basic things in D.
 
 ## People
 
