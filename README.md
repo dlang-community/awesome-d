@@ -388,7 +388,7 @@
 
 ## Text Processing
 
-* [eBay's TSV utilities](https://ebay.github.io/tsv-utils-dlang/) - Command line tools for large delimited data files. Filtering, statistics, sampling, joins and more. Very fast.
+* [eBay's TSV utilities](https://github.com/eBay/tsv-utils/) - Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.
 
 ## Logging
 *Print with care.*
