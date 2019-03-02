@@ -349,6 +349,7 @@
 * [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+* [PolyplexEngine](https://github.com/PolyplexEngine/libpp) - libpp is an XNA like framework written in D.
 
 ## Games
 
