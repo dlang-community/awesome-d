@@ -263,7 +263,7 @@
 
 *Cache*
 
-*[hunt-cache](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
+* [hunt-cache](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
 
 ## Data serialization
 *Json, XML, protobuf and other data serialization libs.*
