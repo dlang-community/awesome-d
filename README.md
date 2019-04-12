@@ -32,6 +32,7 @@
 	- Compiler for other languages
 		- [Javascript](#javascript)
 	- Common/Utilities
+		- [Basic](#basic)
 		- [Containers](#containers)
 	- Networking/Web Related
 		- [Networking](#networking-library)
@@ -115,6 +116,7 @@
 * [libmir](https://github.com/libmir) - D's numeric library development team
 * [sociomantic labs](https://www.sociomantic.com) - Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) organization.
 * [Symmetry Investments](http://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/kaleidicassociates/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm), and various other projects.
+* [HuntLabs](https://www.huntlabs.net) - A technology group using DLang. Have pure D language implementation of quickly develop server-side applications and build distributed system services.
 
 ## Books
 *D related books.* You can find another list of books on the [Books](http://wiki.dlang.org/Books) D wiki page.
@@ -221,6 +223,11 @@
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
+## Basic
+
+* [hunt](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
+* [hunt-time](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
+* [hunt-validation](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
 
 ## Containers
 * [EMSI containers](https://github.com/economicmodeling/containers) -  Containers that do not use the GC 
@@ -231,20 +238,32 @@
 ## Web Frameworks
 
 *Networking library*
+* [hunt-net](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
+* [hunt-http](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
+* [hunt-stomp](https://github.com/huntlabs/hunt-stomp) - STOMP for websocket protocol library implement in D.
 * [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 * [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
 
 *Full stack web frameworks.*
-* [Hunt](http://www.huntframework.com/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
+* [Hunt Framework](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 * [Diamond](https://diamondmvc.org/) - Full-stack web-framework based on vibe.d, targetting enterprise development and high-performance web solutions for both small and big projects.
 
 *RPC library*
-* [kissrpc](https://github.com/huntlabs/kiss-rpc) - Fast and light, flatbuffers based rpc framework.
+* [grpc](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
+* [kissrpc](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
 * [Hprose](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
+
+*Gossip*
+
+* [hunt-gossip](https://github.com/huntlabs/hunt-gossip) - A Apache V2 gossip protocol implementation for D programming language.
+
+*Cache*
+
+*[hunt-cache](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
 
 ## Data serialization
 *Json, XML, protobuf and other data serialization libs.*
@@ -272,9 +291,8 @@
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
-* [entity](https://github.com/huntlabs/entity) - Entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
-* [dbal](https://github.com/huntlabs/dbal) - Database Abstraction Layer for dlang, can construct SQL statements.
-* [database](https://github.com/huntlabs/database) - Database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
+* [hunt-entity](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
+* [hunt-database](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 * [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
 * [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
@@ -285,6 +303,7 @@
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
+* [hunt-console](https://github.com/huntlabs/hunt-console) - Hunt console creation easier to create powerful command-line applications. 
 * [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
 * [scriptlike](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise).
@@ -294,7 +313,6 @@
 * [Argon](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D. 
 * [argsd](https://github.com/burner/argsd) - A command line and config file parser for DLang
 * [darg](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
-
 
 ## GUI Libs
 *Libraries for working with graphical user interface applications.*
@@ -392,6 +410,7 @@
 
 ## Text Processing
 
+* [hunt-markdown](https://github.com/huntlabs/hunt-markdown) - A markdown parsing and rendering library for D programming language. Support commonMark.
 * [eBay's TSV utilities](https://github.com/eBay/tsv-utils/) - Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.
 
 ## Logging
