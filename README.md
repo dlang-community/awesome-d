@@ -49,7 +49,7 @@
 		- [Frameworks](#game-frameworks)
 		- [Games](#games)
 	- Video
-		- [Applications](#video-appilcations)
+		- [Applications](#video-applications)
 	- Image Processing
 		- [Applications](#image-processing)
 	- Scientific
