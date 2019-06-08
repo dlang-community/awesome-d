@@ -49,9 +49,11 @@
 		- [Frameworks](#game-frameworks)
 		- [Games](#games)
 	- Video
-		- [Applications](#video-appilcations)
+		- [Applications](#video-applications)
 	- Image Processing
 		- [Applications](#image-processing)
+	- End-user applications (AppImages, Flatpaks, Snaps...)
+		- [Applications](#end-user-applications)
 	- Scientific
 		- [Scientific](#scientific)
 	- Machine Learning
@@ -387,6 +389,9 @@
 * [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
 * [dlib.image](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
 * [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+
+## End-user applications
+* [Drill](https://github.com/yatima1460/drill) -  Search files without indexing, but clever crawling
 
 ## Machine Learning
 
