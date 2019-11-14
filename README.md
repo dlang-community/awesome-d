@@ -246,6 +246,7 @@
 * [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 * [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+* [dlang-requests](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 
 *Full stack web frameworks.*
 * [Hunt Framework](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
