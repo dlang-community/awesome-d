@@ -25,6 +25,7 @@
 	- Language Related 
 		- [Package Management](#package-management)
 		- [Compilers](#compilers)
+		- [Dev Tools](#dev-tools)
 		- [Build Tools](#build-tools)
 		- [IDE](#ide)
 		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
@@ -182,6 +183,14 @@
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
 
 
+## Dev Tools
+
+*Tools for more productive D development.*
+
+* [D-Scanner](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
+* [dfmt](https://github.com/dlang-community/dfmt) - formatter for D source code
+
+
 ## Build Tools
 
 *Manage projects and compile software from source code.*
@@ -207,6 +216,7 @@
 * [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries.
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 * [D Language Server](https://github.com/d-language-server/dls) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Sublime, Atom, Emacs, Vim/Neovim)
+* [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 
 ## Lexers, Parsers, Parser Generators
 
