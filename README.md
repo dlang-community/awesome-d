@@ -328,6 +328,7 @@
 * [Argon](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D. 
 * [argsd](https://github.com/burner/argsd) - A command line and config file parser for DLang
 * [darg](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
+* [luneta](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
 
 ## GUI Libs
 *Libraries for working with graphical user interface applications.*
