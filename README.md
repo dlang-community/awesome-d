@@ -98,6 +98,7 @@
 
 * [Walter Bright](http://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
 * [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
+* [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/).
 * **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. 
 
 ## Events
@@ -214,7 +215,7 @@
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
-* [Dexed](https://github.com/Akira13641/dexed) - IDE for the D programming language, its compilers, tools and libraries.
+* [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 * [D Language Server](https://github.com/d-language-server/dls) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Sublime, Atom, Emacs, Vim/Neovim)
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
@@ -385,13 +386,14 @@
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 * [PolyplexEngine](https://github.com/PolyplexEngine/libpp) - libpp is an XNA like framework written in D.
+* [rengfx](https://github.com/xdrie/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 
 ## Games
 
 * [Spacecraft](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
 * [Dtanks](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
-* [Atrium] (https://github.com/gecko0307/atrium) - FPS game with physics based puzzles using OpenGL.
-* [Backgammony] (https://github.com/jonathanballs/backgammony) - A Backgammon GUI for Linux built with Gtk.
+* [Atrium](https://github.com/gecko0307/atrium) - FPS game with physics based puzzles using OpenGL.
+* [Backgammony](https://github.com/jonathanballs/backgammony) - A Backgammon GUI for Linux built with Gtk.
 
 ## Video applications
 
