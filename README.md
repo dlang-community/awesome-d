@@ -215,7 +215,7 @@
 
 *Integrated Development Environment.*
 
-* [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](https://xamarin.com/)/[MonoDevelop](https://www.monodevelop.com/). With dub support.
+* [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [MonoDevelop](https://www.monodevelop.com/). With dub support.
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [IntelliJ D Language](https://intellij-dlanguage.github.io/) - Support for the D programming language within IntelliJ IDEA.
@@ -359,7 +359,7 @@
 
 *Operating Systems written in D*
 
-* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D 
+* [PowerNex](https://github.com/PowerNex/PowerNex) -  A kernel written in D 
 * [Trinix](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
@@ -392,7 +392,7 @@
 
 * [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
 * [gfm](https://github.com/d-gamedev-team/gfm) - D gamedev toolkit. see <http://d-gamedev-team.github.io/gfm/>.
-* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash>.
+* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
 * [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
