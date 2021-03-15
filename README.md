@@ -156,6 +156,7 @@
 * [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
 * [D Idioms](http://p0nce.github.io/d-idioms/) - A great blog for many useful idioms with D programming.
 * [GTK-D coding](http://gtkdcoding.com/) - Simple examples of how to use GtkD to build GUI applications.
+* [Tasty D](https://tastyminerals.github.io/tasty-blog/) - A blog about learning the D programming language and various D language trivia.
 
 ## Articles
 *D related Aritcles.*
