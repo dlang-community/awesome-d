@@ -27,7 +27,7 @@
 		- [Compilers](#compilers)
 		- [Dev Tools](#dev-tools)
 		- [Build Tools](#build-tools)
-		- [IDE](#ide)
+		- [IDEs & Editors](#ides--editors)
 		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
 		- [Preprocessors](#preprocessors)
 	- Compiler for other languages
@@ -208,7 +208,9 @@
 * [button](http://jasonwhite.github.io/button/) - A universal build system to build your software at the push of a button.
 * [wild](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex](https://github.com/Vild/PowerNex) kernel
 
-## IDE
+<a name="ide"></a>
+
+## IDEs & Editors
 
 *Integrated Development Environment.*
 
