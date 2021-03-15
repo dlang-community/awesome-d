@@ -218,7 +218,7 @@
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
-* [D Language Server](https://github.com/d-language-server/dls) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Sublime, Atom, Emacs, Vim/Neovim)
+* [serve-d](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 
 ## Lexers, Parsers, Parser Generators
