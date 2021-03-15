@@ -392,7 +392,7 @@
 
 * [Spacecraft](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
 * [Dtanks](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
-* [Atrium] (https://github.com/gecko0307/atrium) - FPS game with physics based puzzles using OpenGL.
+* [Atrium](https://github.com/gecko0307/atrium) - FPS game with physics based puzzles using OpenGL.
 
 ## Video applications
 
