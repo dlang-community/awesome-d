@@ -49,6 +49,8 @@
 		- [Bindings](#game-bindings)
 		- [Frameworks](#game-frameworks)
 		- [Games](#games)
+	- Internationalization (i18n) / Globalization
+		- [Internationalization](#internationalization)
 	- Video
 		- [Applications](#video-applications)
 	- Image Processing
@@ -57,6 +59,7 @@
 		- [Applications](#end-user-applications)
 	- Scientific
 		- [Scientific](#scientific)
+		- [Language Processing](#language-processing)
 	- Machine Learning
 		- [Machine Learning](#machine-learning)
 	- [Parallel computing](#parallel-computing)
@@ -366,6 +369,31 @@
 
 *Bindings to game development related C libraries.*
 
+* BindBC libraries - `-betterC` compatible, `@nogc` bindings using [bindbc-loader](https://github.com/BindBC/bindbc-loader):
+	* OpenGL - [bindbc-opengl](https://github.com/BindBC/bindbc-opengl)
+	* GLFW 3 - [bindbc-glfw](https://github.com/BindBC/bindbc-glfw)
+	* SDL 2 - [bindbc-sdl](https://github.com/BindBC/bindbc-sdl)
+	* SDL2_gfx - [bindbc-sdlgfx](https://github.com/aferust/bindbc-sdlgfx)
+	* SFML 2 - [bindbc-sfml](https://github.com/BindBC/bindbc-sfml)
+	* Imgui - immediate UI - [bindbc-imgui](https://github.com/Inochi2D/bindbc-imgui)
+	* Nuklear - immediate UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
+	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
+	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
+	* WegGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
+	* Zstandard - compression - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
+	* nanomsg-next-gen - [bindbc-nng](https://github.com/darkridder/bindbc-nng)
+	* OpenAL - audio engine - [bindbc-openal](https://github.com/BindBC/bindbc-openal)
+	* SoLoud - audio engine - [bindbc-soloud](https://github.com/gecko0307/bindbc-soloud)
+	* KiWi - widget library - [bindbc-kiwi](https://github.com/aferust/bindbc-kiwi)
+	* NanoVG - vector drawing engine - [bindbc-nanovg](https://github.com/aferust/bindbc-nanovg)
+	* Blend2D - 2D Vector Graphics Powered by a JIT Compiler - [bindbc-blend2d](https://github.com/kdmult/bindbc-blend2d)
+	* Lua - [bindbc-lua](https://github.com/BindBC/bindbc-lua)
+	* JoyShockLibrary - [bindbc-jsl](https://github.com/ZILtoid1991/bindbc-JSL)
+	* Newton Dynamics - physics engine - [bindbc-newton](https://github.com/gecko0307/bindbc-newton)
+	* FreeImage - [bindbc-freeimage](https://github.com/BindBC/bindbc-freeimage)
+	* Assimp5 - [bindbc-assimp](https://github.com/Sobaya007/bindbc-assimp)
+	* Freetype - [bindbc-freetype](https://github.com/BindBC/bindbc-freetype)
+	* Harfbuzz - text shaping engine - [bindbc-harfbuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz)
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
 	* OpenGL 3 (DerelictGL3), 
 	* Bgfx (DerelictBgfx), 
@@ -405,6 +433,10 @@
 * [Atrium](https://github.com/gecko0307/atrium) - FPS game with physics based puzzles using OpenGL.
 * [Backgammony](https://github.com/jonathanballs/backgammony) - A Backgammon GUI for Linux built with Gtk.
 
+## Internationalization
+
+* [bindbc-icu](https://github.com/shoo/bindbc-icu) - bindbc bindings for the unicode ICU library.
+
 ## Video applications
 
 * [DerelictGL3](https://github.com/DerelictOrg/DerelictGL3) - A dynamic binding to OpenGL for the D Programming Language.
@@ -423,6 +455,7 @@
 ## Machine Learning
 
 * [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
+* [bindbc-onnxruntime](https://github.com/lempiji/bindbc-onnxruntime) - bindbc bindings to Microsoft's cross-platform, high performance ML inferencing and training accelerator
 
 ## Parallel computing
 
@@ -439,6 +472,10 @@
 * [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 * [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 * [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
+
+### Language Processing
+
+* [bindbc-mecab](https://github.com/lempiji/bindbc-mecab) - bindbc MeCab binding (Part-of-Speech and Morphological Analyzer for Japanese)
 
 ## Text Processing
 
