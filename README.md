@@ -314,7 +314,7 @@
 
 * [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 * [std.experimental.xml](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
-* [dom.d] - an xml/html DOM based on what Javascript provides in browsers
+* arsd [dom.d](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
 
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
