@@ -5,7 +5,7 @@
   
   I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
   
-  If you know an interesting lib/app in D, please tell me by issue or a pull request :-).
+  If you know an interesting lib/app in D, please tell us through [GitHub issues](https://github.com/dlang-community/awesome-d/issues) or [edit this file](https://github.com/dlang-community/awesome-d/edit/master/README.md).
   
 # Contents 
 
