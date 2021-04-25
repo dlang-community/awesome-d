@@ -293,6 +293,10 @@
 
 * [hunt-cache](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
 
+*Static Site Generator*
+
+* [DSSG](https://github.com/kambrium/dssg) - A static site generator with a different approach.
+
 ## Data serialization
 *Json, XML, protobuf and other data serialization libs.*
 
