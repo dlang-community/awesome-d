@@ -72,6 +72,7 @@
 		- [Logging](#logging)
 		- [Configuration](#configuration)
 		- [BlogEngine](#blog-engine)
+		- [Dependency Injection](#dependency-injection)
 		
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -518,6 +519,11 @@
 *Hosting blogs yourself*
 
 - [mood](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
+
+## Dependency Injection
+*Apply inversion of control*
+
+- [Poodinis](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
