@@ -432,6 +432,9 @@
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 
+*Bindings to Game Engines.*
+* [Godot-D](https://github.com/godot-d/godot-d/blob/master/README.md) - D language bindings for the Godot Engine's GDNative API
+
 ## Game Frameworks
 
 * [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
