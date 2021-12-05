@@ -97,6 +97,7 @@
 * [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest traffic site for answering D questions.
 * [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than forums but possibly easier to search.
 * [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - Examples of how to do many basic things in D.
+* [D on Discord](https://discord.gg/bMZk9Q4) - Another very active community for D conversations and question.
 
 ## People
 
