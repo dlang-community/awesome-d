@@ -21,7 +21,6 @@
 		- [Tutorials](#tutorials)
 		- [Blogs](#blogs)
 		- [Articles](#articles)
-		- [API Doc](#api-docs)
 	- Language Related 
 		- [Package Management](#package-management)
 		- [Compilers](#compilers)
