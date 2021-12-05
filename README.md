@@ -97,7 +97,6 @@
 * [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest traffic site for answering D questions.
 * [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than forums but possibly easier to search.
 * [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - Examples of how to do many basic things in D.
-* [D on Discord](https://discord.gg/bMZk9Q4) - Another very active community for D conversations and question.
 
 ## People
 
@@ -145,7 +144,6 @@
 * [Component programming in D](https://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
 * [Component programming with ranges](https://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
 * [Functional image processing in D](https://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
-* [OpenGL tutorials](https://github.com/d-gamedev-team/opengl-tutorials) - OpenGL tutorials in D.
 * [Creating a simple JSON serialiser in D](https://bradley.chatha.dev/BlogPost/JsonSerialiser/0) - D metaprogramming tutorial series
 
 ### Bare metal / kernel development
@@ -397,7 +395,7 @@
 	* Nuklear - immediate UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
 	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
 	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
-	* WegGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
+	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
 	* Zstandard - compression - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
 	* nanomsg-next-gen - [bindbc-nng](https://github.com/darkridder/bindbc-nng)
 	* OpenAL - audio engine - [bindbc-openal](https://github.com/BindBC/bindbc-openal)
