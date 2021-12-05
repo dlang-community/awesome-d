@@ -221,12 +221,9 @@
 
 *Integrated Development Environment.*
 
-* [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [MonoDevelop](https://www.monodevelop.com/). With dub support.
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
-* [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [IntelliJ D Language](https://intellij-dlanguage.github.io/) - Support for the D programming language within IntelliJ IDEA.
 * [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
-* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 * [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]</sup> - Visual Studio Code extension using serve-d
 * [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
