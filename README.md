@@ -48,8 +48,8 @@
 	- OS
 		- [Operating Systems](#os)
 	- Gaming
-		- [Bindings](#game-bindings)
-		- [Game Engine Bindings](#game-engine-bindings)
+		- [Game and Graphics Bindings](#game-bindings)
+		- [Game Engines](#game-engines)
 		- [Frameworks](#game-frameworks)
 		- [Games](#games)
 	- Internationalization (i18n) / Globalization
@@ -433,9 +433,12 @@
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 
-## Game Engine Bindings
+## Game Engine
 
-* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+* Game Engine Bindings:
+	* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+
+* Pure D Game Engines:
 
 ## Game Frameworks
 
