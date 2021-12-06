@@ -397,7 +397,7 @@
 	* Nuklear - immediate UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
 	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
 	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
-	* WegGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
+	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
 	* Zstandard - compression - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
 	* nanomsg-next-gen - [bindbc-nng](https://github.com/darkridder/bindbc-nng)
 	* OpenAL - audio engine - [bindbc-openal](https://github.com/BindBC/bindbc-openal)
