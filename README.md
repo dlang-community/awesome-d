@@ -24,6 +24,7 @@
 	- Language Related 
 		- [Package Management](#package-management)
 		- [Compilers](#compilers)
+		- [WIP Compilers](#wip-compilers)
 		- [Dev Tools](#dev-tools)
 		- [Build Tools](#build-tools)
 		- [IDEs & Editors](#ides--editors)
@@ -189,8 +190,10 @@
 * [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 * [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
+
+## WIP Compilers:
+
 * [sdc](https://github.com/snazzy-d/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day.
-* [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
 
 
 ## Dev Tools
