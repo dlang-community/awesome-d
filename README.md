@@ -438,7 +438,7 @@
 ### Game Engine Bindings:
 	* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
 
-* Pure D Game Engines:
+### D Game Engines
 
 ## Game Frameworks
 
