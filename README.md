@@ -383,6 +383,7 @@
 *Operating Systems written in D*
 
 * [PowerNex](https://github.com/PowerNex/PowerNex) -  A kernel written in D 
+* [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
 * [Trinix](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
