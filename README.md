@@ -364,6 +364,7 @@
 * [darg](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
 * [commandr](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
 * [luneta](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
+* [argparse](https://code.dlang.org/packages/argparse) - Flexible parser of command line arguments.
 
 ## GUI Libs
 *Libraries for working with graphical user interface applications.*
