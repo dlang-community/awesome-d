@@ -479,6 +479,7 @@
 ## End-user applications
 * [Drill](https://github.com/yatima1460/drill) -  Search files without indexing, but clever crawling
 * [Cryptic-Resolver](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
+* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
 
 ## Machine Learning
 
