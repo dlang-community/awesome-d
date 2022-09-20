@@ -192,7 +192,7 @@
 
 ## WIP Compilers
 
-* [sdc](https://github.com/snazzy-d/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day.
+* [sdc](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
 
 
 ## Dev Tools
