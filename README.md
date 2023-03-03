@@ -329,7 +329,6 @@
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
 * [std.data.json](https://github.com/dlang-community/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
 * [asdf](https://github.com/libmir/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisation.
-* [jstruct](https://github.com/Hax-io/jstruct) - JSONify a struct and vice-versa
 
 ### XML
 
