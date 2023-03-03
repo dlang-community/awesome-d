@@ -349,6 +349,7 @@
 * [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)).
 * [dvorm](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
+* [libpb](https://github.com/Hax-io/libpb) - INteract with a PocketBase database
 
 ## Command Line
 * [hunt-console](https://github.com/huntlabs/hunt-console) - Hunt console creation easier to create powerful command-line applications. 
@@ -364,6 +365,8 @@
 * [commandr](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
 * [luneta](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
 * [argparse](https://code.dlang.org/packages/argparse) - Flexible parser of command line arguments.
+* [dlog](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
+* [gogga](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
 
 ## GUI Libs
 *Libraries for working with graphical user interface applications.*
