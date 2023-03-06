@@ -488,6 +488,8 @@
 
 * [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
 * [bindbc-onnxruntime](https://github.com/lempiji/bindbc-onnxruntime) - bindbc bindings to Microsoft's cross-platform, high performance ML inferencing and training accelerator
+* [grain2](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
+* [tfd](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D 
 
 ## Parallel computing
 
