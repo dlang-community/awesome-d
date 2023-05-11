@@ -218,6 +218,7 @@
 * [cook2](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 * [button](https://jasonwhite.io/button/) - A universal build system to build your software at the push of a button.
 * [wild](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex](https://github.com/PowerNex/PowerNex) kernel
+* [XMake](https://xmake.io) - XMake is a crossplatform build system, that incorporated the D language and also has support for DUB repositories.
 
 
 <a name="ide"></a>
