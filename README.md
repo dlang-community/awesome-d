@@ -51,6 +51,7 @@
 	- Gaming
 		- [Bindings](#game-bindings)
 		- [Game Engine Bindings](#game-engine-bindings)
+		- [Game Engines written natively in D](#game-engines-written-natively-in-d)
 		- [Frameworks](#game-frameworks)
 		- [Games](#games)
 	- Internationalization (i18n) / Globalization
@@ -341,6 +342,7 @@
 
 * [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 * [std.experimental.xml](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
+* [newxml](https://github.com/ZILtoid1991/newxml) - Successor of std.experimental.xml. DOM compatible, and also has a SAX parser.
 * arsd [dom.d](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
 
 ## Database clients
@@ -450,6 +452,11 @@
 ## Game Engine Bindings
 
 * [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+
+## Game Engines written natively in D
+
+* [PixelPerfectEngine](https://github.com/ZILtoid1991/pixelperfectengine) - Game engine optimized for retro pixelart-style games.
+* [HipremeEngine](https://github.com/MrcSnm/HipremeEngine) - Cross platform game engine with scripting support.
 
 ## Game Frameworks
 
