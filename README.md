@@ -222,7 +222,7 @@
 * [wild](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex](https://github.com/PowerNex/PowerNex) kernel
 * [XMake](https://xmake.io) - XMake is a crossplatform build system, that incorporated the D language and also has support for DUB repositories.
 * [wox](https://github.com/redthing1/wox) - A highly flexible recipe build system inspired by Make
-
+* [Meson](https://mesonbuild.com) - An user-friendly and fast open source build system with support for D projects
 
 <a name="ide"></a>
 
@@ -410,7 +410,7 @@
 	* SFML 2 - [bindbc-sfml](https://github.com/BindBC/bindbc-sfml)
 	* Imgui - immediate UI - [bindbc-imgui](https://github.com/Inochi2D/bindbc-imgui)
 	* Nuklear - immediate UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
-	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
+	* raylib - [bindbc-raylib3](https://github.com/o3o/bindbc-raylib3)
 	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
 	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
 	* Zstandard - compression - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
