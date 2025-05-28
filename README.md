@@ -455,8 +455,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [gfm](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
-* [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
-* [PolyplexEngine](https://github.com/PolyplexEngine/libpp) - libpp is an XNA like framework written in D.
+* [Voxelman](https://github.com/MrSmith33/voxelman) - Plugin-based client-server voxel game engine written in D language
 * [rengfx](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 * [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine.
 * [PixelPerfectEngine](https://github.com/ZILtoid1991/pixelperfectengine) - 2D graphics engine written in D.
