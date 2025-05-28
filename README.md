@@ -1,83 +1,75 @@
 # Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
----
 
-  A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
-  
-  I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
-  
-  If you know an interesting lib/app in D, please tell us through [GitHub issues](https://github.com/dlang-community/awesome-d/issues) or [edit this file](https://github.com/dlang-community/awesome-d/edit/master/README.md).
-  
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+
+Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md).
+
 # Contents 
 
-- [Awesome D](#awesome-d)
-	- Basic Information
-		- [Official Website](#official-website)
-		- [Getting Help](#getting-help)
-		- [People](#people)
-		- [Events](#events)
-		- [Organizations](#organizations)
-	- Documents
-		- [Books](#books)
-		- [Tutorials](#tutorials)
-		- [Blogs](#blogs)
-		- [Articles](#articles)
-	- Language Related 
-		- [Package Management](#package-management)
-		- [Compilers](#compilers)
-		- [WIP Compilers](#wip-compilers)
-		- [Dev Tools](#dev-tools)
-		- [Build Tools](#build-tools)
-		- [IDEs & Editors](#ides--editors)
-		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
-		- [Preprocessors](#preprocessors)
-  		- [Version Manager](#version-manager)
-	- Compiler for other languages
-		- [Javascript](#javascript)
-	- Common/Utilities
-		- [Basic](#basic)
-		- [Containers](#containers)
-	- Continuous Integration
-		- [GitHub Actions](#github-actions)
-		- [Testing Frameworks](#testing-frameworks)
-	- Networking/Web Related
-		- [Networking](#networking-library)
-		- [Web Frameworks](#web-frameworks)
-		- [Data&Serialization](#data-serialization)
-	- Database
-		- [Database clients](#database-clients)
-	- GUI
-		- [GUI Libs](#gui-libs)
-	- OS
-		- [Operating Systems](#os)
-	- Gaming
-		- [Bindings](#game-bindings)
-		- [Game Engine Bindings](#game-engine-bindings)
-		- [Frameworks](#game-frameworks)
-		- [Games](#games)
-	- Internationalization (i18n) / Globalization
-		- [Internationalization](#internationalization)
-	- Video
-		- [Applications](#video-applications)
-	- Image Processing
-		- [Applications](#image-processing)
-	- End-user applications (AppImages, Flatpaks, Snaps...)
-		- [Applications](#end-user-applications)
-	- Scientific
-		- [Scientific](#scientific)
-		- [Language Processing](#language-processing)
-	- Machine Learning
-		- [Machine Learning](#machine-learning)
-	- [Parallel computing](#parallel-computing)
-	- Others
-		- [Text Processing](#text-processing)
-		- [Command Line](#command-line)
-		- [Logging](#logging)
-		- [Configuration](#configuration)
-		- [BlogEngine](#blog-engine)
-		- [Dependency Injection](#dependency-injection)
-		
-- [Other Awesome Lists](#other-awesome-lists)
-
+- Basic Information
+	- [Official Website](#official-website)
+	- [Getting Help](#getting-help)
+	- [People](#people)
+	- [Events](#events)
+	- [Organizations](#organizations)
+- Documents
+	- [Books](#books)
+	- [Tutorials](#tutorials)
+	- [Blogs](#blogs)
+	- [Articles](#articles)
+- Language Related 
+	- [Package Management](#package-management)
+	- [Compilers](#compilers)
+	- [WIP Compilers](#wip-compilers)
+	- [Dev Tools](#dev-tools)
+	- [Build Tools](#build-tools)
+	- [IDEs & Editors](#ides--editors)
+	- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
+	- [Preprocessors](#preprocessors)
+	- [Version Manager](#version-manager)
+- Compiler for Other Languages
+	- [Javascript](#javascript)
+- Common/Utilities
+	- [Basic](#basic)
+	- [Containers](#containers)
+- Continuous Integration
+	- [GitHub Actions](#github-actions)
+	- [Testing Frameworks](#testing-frameworks)
+- Networking/Web Related
+	- [Networking](#networking-library)
+	- [Web Frameworks](#web-frameworks)
+	- [Data&Serialization](#data-serialization)
+- Database
+	- [Database clients](#database-clients)
+- GUI
+	- [GUI Libs](#gui-libs)
+- OS
+	- [Operating Systems](#os)
+- Game Development
+	- [Bindings](#game-bindings)
+	- [Frameworks](#game-frameworks)
+	- [Games](#games)
+- Internationalization (i18n) / Globalization
+	- [Internationalization](#internationalization)
+- Video
+	- [Applications](#video-applications)
+- Image Processing
+	- [Applications](#image-processing)
+- End-user applications (AppImages, Flatpaks, Snaps...)
+	- [Applications](#end-user-applications)
+- Scientific
+	- [Scientific](#scientific)
+	- [Language Processing](#language-processing)
+- Machine Learning
+	- [Machine Learning](#machine-learning)
+- [Parallel computing](#parallel-computing)
+- Others
+	- [Text Processing](#text-processing)
+	- [Command Line](#command-line)
+	- [Logging](#logging)
+	- [Configuration](#configuration)
+	- [BlogEngine](#blog-engine)
+	- [Dependency Injection](#dependency-injection)
 
 ## Official Website
 
@@ -237,9 +229,6 @@
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 * [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]</sup> - Visual Studio Code extension using serve-d
 * [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
-
-<br/>
-
 * [DCD](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [serve-d](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 
@@ -291,7 +280,8 @@
 
 ## Web Frameworks
 
-*Networking library*
+*Networking libraries*
+
 * [hunt-net](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
 * [hunt-http](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 * [hunt-stomp](https://github.com/huntlabs/hunt-stomp) - STOMP for websocket protocol library implement in D.
@@ -302,13 +292,15 @@
 * [Handy-Httpd](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 * [serverino](https://github.com/trikko/serverino) - Small and ready-to-go http server, in D
 
-*Full stack web frameworks.*
+*Full stack web frameworks*
+
 * [Hunt Framework](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
-*RPC library*
+*RPC libraries*
+
 * [grpc](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
 * [kissrpc](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
 * [Hprose](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
@@ -348,6 +340,7 @@
 * [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 * [std.experimental.xml](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 * arsd [dom.d](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
+* [newxml](https://github.com/ZILtoid1991/newxml) - Successor of std.experimental.xml. DOM compatible, and also has a SAX parser.
 
 ## Database clients
 *Clients and bindings to C bliencts for relational and nosql databases.*
@@ -396,7 +389,7 @@
 
 ## OS
 
-*Operating Systems written in D*
+*Operating Systems written in D.*
 
 * [PowerNex](https://github.com/PowerNex/PowerNex) -  A kernel written in D 
 * [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
@@ -405,7 +398,7 @@
 
 ## Game Bindings
 
-*Bindings to game development related C libraries.*
+*Bindings to game development related libraries in C, C++, and other languages.*
 
 * BindBC libraries - `-betterC` compatible, `@nogc` bindings using [bindbc-loader](https://github.com/BindBC/bindbc-loader):
 	* OpenGL - [bindbc-opengl](https://github.com/BindBC/bindbc-opengl)
@@ -452,23 +445,22 @@
 	* DevIL (DerelictIL), 
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
-
-## Game Engine Bindings
-
 * [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+* [DAllegro5](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
+* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 
 ## Game Frameworks
 
-* [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
+*D libraries for game development.*
+
 * [gfm](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
-* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
-* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
-* [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 * [PolyplexEngine](https://github.com/PolyplexEngine/libpp) - libpp is an XNA like framework written in D.
 * [rengfx](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
-* [Parin](https://github.com/Kapendev/parin) - A delightfully simple and lightweight 2D game engine.
+* [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine.
+* [PixelPerfectEngine](https://github.com/ZILtoid1991/pixelperfectengine) - 2D graphics engine written in D.
+* [HipremeEngine](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support.
 
 ## Games
 
@@ -554,6 +546,3 @@
 *Apply inversion of control*
 
 - [Poodinis](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
-
-## Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
