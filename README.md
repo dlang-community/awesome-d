@@ -460,6 +460,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
+* [raylib-d](https://github.com/schveiguy/raylib-d) - D bindings for raylib.
 
 ## Game Frameworks
 
