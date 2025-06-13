@@ -4,73 +4,73 @@ A curated list of awesome D frameworks, libraries and software. Inspired by [awe
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md).
 
-# Contents 
+# Contents
 
-- Basic Information
-	- [Official Website](#official-website)
-	- [Getting Help](#getting-help)
-	- [People](#people)
-	- [Events](#events)
-	- [Organizations](#organizations)
-- Documents
-	- [Books](#books)
-	- [Tutorials](#tutorials)
-	- [Blogs](#blogs)
-	- [Articles](#articles)
-- Language Related 
-	- [Package Management](#package-management)
-	- [Compilers](#compilers)
-	- [WIP Compilers](#wip-compilers)
-	- [Dev Tools](#dev-tools)
-	- [Build Tools](#build-tools)
-	- [IDEs & Editors](#ides--editors)
-	- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
-	- [Preprocessors](#preprocessors)
-	- [Version Manager](#version-manager)
-- Compiler for Other Languages
-	- [Javascript](#javascript)
-- Common/Utilities
-	- [Basic](#basic)
-	- [Containers](#containers)
-- Continuous Integration
-	- [GitHub Actions](#github-actions)
-	- [Testing Frameworks](#testing-frameworks)
-- Networking/Web Related
-	- [Web Frameworks](#web-frameworks)
-	- [Data&Serialization](#data-serialization)
-- Database
-	- [Database clients](#database-clients)
-- GUI
-	- [GUI Libraries](#gui-libraries)
-	- [GUI Apps](#gui-apps)
-- OS
-	- [Operating Systems](#os)
-- Game Development
-	- [Bindings](#game-bindings)
-	- [Frameworks](#game-frameworks)
-	- [Games](#games)
-- Internationalization (i18n) / Globalization
-	- [Internationalization](#internationalization)
-- Video
-	- [Applications](#video-applications)
-- Image Processing
-	- [Applications](#image-processing)
-- End-user applications (AppImages, Flatpaks, Snaps...)
-	- [Applications](#end-user-applications)
-- Scientific
-	- [Scientific](#scientific)
-	- [Language Processing](#language-processing)
-- Machine Learning
-	- [Machine Learning](#machine-learning)
-	- [Parallel computing](#parallel-computing)
-- Others
-	- [Text Processing](#text-processing)
-	- [Command Line](#command-line)
-	- [Logging](#logging)
-	- [Configuration](#configuration)
-	- [BlogEngine](#blog-engine)
-	- [Dependency Injection](#dependency-injection)
-- [Unmaintained](#unmaintained)
+* Basic Information
+	* [Official Website](#official-website)
+	* [Getting Help](#getting-help)
+	* [People](#people)
+	* [Events](#events)
+	* [Organizations](#organizations)
+* Documents
+	* [Books](#books)
+	* [Tutorials](#tutorials)
+	* [Blogs](#blogs)
+	* [Articles](#articles)
+* Language Related
+	* [Package Management](#package-management)
+	* [Compilers](#compilers)
+	* [WIP Compilers](#wip-compilers)
+	* [Dev Tools](#dev-tools)
+	* [Build Tools](#build-tools)
+	* [IDEs & Editors](#ides--editors)
+	* [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
+	* [Preprocessors](#preprocessors)
+	* [Version Manager](#version-manager)
+* Compiler for Other Languages
+	* [Javascript](#javascript)
+* OS
+	* [Operating Systems](#operating-systems)
+	* [Bare Metal/Kernel Development](#bare-metalkernel-development)
+* Common/Utilities
+	* [Basic](#basic)
+	* [Containers](#containers)
+* Continuous Integration
+	* [GitHub Actions](#github-actions)
+	* [Testing Frameworks](#testing-frameworks)
+* Networking/Web Related
+	* [Web Frameworks](#web-frameworks)
+	* [Data&Serialization](#data-serialization)
+* Database
+	* [Database clients](#database-clients)
+* CLI
+	* [CLI Libraries](#cli-libraries)
+	* [CLI Applications](#cli-applications)
+* GUI
+	* [GUI Libraries](#gui-libraries)
+	* [GUI Applications](#gui-applications)
+* Game Development
+	* [Bindings](#game-bindings)
+	* [Frameworks](#game-frameworks)
+	* [Games](#games)
+* Internationalization (i18n) / Globalization
+	* [Internationalization](#internationalization)
+* Image Processing
+	* [Image Processing](#image-processing)
+* Machine Learning
+	* [Machine Learning](#machine-learning)
+	* [Parallel Computing](#parallel-computing)
+* Scientific
+	* [Scientific](#scientific)
+	* [Language Processing](#language-processing)
+* Others
+	* [Text Processing](#text-processing)
+	* [Command Line](#command-line)
+	* [Logging](#logging)
+	* [Configuration](#configuration)
+	* [BlogEngine](#blog-engine)
+	* [Dependency Injection](#dependency-injection)
+	* [Unmaintained](#unmaintained)
 
 ## Official Website
 
@@ -148,13 +148,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Creating a simple JSON serialiser in D](https://bradley.chatha.dev/BlogPost/JsonSerialiser/0) - D metaprogramming tutorial series
 * [Let's learn D programming Game Dev!](https://www.youtube.com/watch?v=j-Zm1zgSxMQ&list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-&ab_channel=KiRill) - A video series on learning game development with D from Ki Rill. [His channel](https://www.youtube.com/@rillki-dev/) also posts other videos related to D programming.
 * [DLang YouTube Tutorials from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV) - Series of tutorials covering basic to advanced features of the D programming language and standard library.
-
-### Bare metal / kernel development
-
-* [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
-* [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
-* [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github](https://github.com/xomboverlord/xomb/tree/unborn).
-* [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
 ## Blogs
 
@@ -256,6 +249,22 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
+## Operating Systems
+
+*Operating Systems written in D.*
+
+* [PowerNex](https://github.com/PowerNex/PowerNex) -  A kernel written in D
+* [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
+* [Trinix](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
+* [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+
+## Bare Metal/Kernel Development
+
+* [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
+* [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
+* [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github](https://github.com/xomboverlord/xomb/tree/unborn).
+* [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
+
 ## Basic
 
 * [NuMem](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
@@ -265,19 +274,19 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## Containers
 
 * [EMSI containers](https://github.com/dlang-community/containers) - Containers that do not use the GC 
-- [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-- [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
-- [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
+* [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+* [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+* [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ## GitHub Actions
 
-- [setup-dlang](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
-- [dub-upgrade](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+* [setup-dlang](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+* [dub-upgrade](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
 
 ## Testing Frameworks
 
-- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
-- [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+* [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+* [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
 
 ## Web Frameworks
 
@@ -343,7 +352,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 * [libpb](https://github.com/Hax-io/libpb) - INteract with a PocketBase database
 
-## Command Line
+## CLI Libraries
 
 * [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 * [commandr](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
@@ -357,6 +366,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [d-colorize](https://code.dlang.org/packages/colorize) - A port of the ruby library [colorize](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
 * [dexpect](https://github.com/grogancolin/dexpect/) -  A D implementation of the expect framework. Handy for bash emulation.
 * [Argon](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D. 
+
+## CLI Applications
+
+* [Literate](https://github.com/zyedidia/Literate) - A literate programming tool for any language.
+* [onedrive](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux.
+* [tshare](https://github.com/trikko/tshare) - Fast file sharing from cli, using transfer.sh.
 
 ## GUI Libraries
 
@@ -374,20 +389,11 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](https://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
-## GUI Apps
+## GUI Applications
 
 * [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3.
 * [Inochi Creator](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application.
 * [Inochi Session](https://github.com/Inochi2D/inochi-session) - Application that allows streaming with Inochi2D puppets.
-
-## OS
-
-*Operating Systems written in D.*
-
-* [PowerNex](https://github.com/PowerNex/PowerNex) -  A kernel written in D 
-* [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
-* [Trinix](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
-* [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## Game Bindings
 
@@ -472,10 +478,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [bindbc-icu](https://github.com/shoo/bindbc-icu) - bindbc bindings for the unicode ICU library.
 
-## Video applications
-
-* [DerelictGL3](https://github.com/DerelictOrg/DerelictGL3) - A dynamic binding to OpenGL for the D Programming Language.
-
 ## Image Processing
 
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
@@ -484,14 +486,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 * [opencvd](https://github.com/aferust/opencvd) - Unofficial OpenCV binding for D
 
-## End-user applications
-
-* [Cryptic-Resolver](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
-* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
-* [Literate](https://github.com/zyedidia/Literate) - A literate programming tool for any language
-* [onedrive](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
-* [tshare](https://github.com/trikko/tshare) - fast file sharing from cli, using transfer.sh
-
 ## Machine Learning
 
 * [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
@@ -499,7 +493,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [grain2](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
 * [tfd](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D 
 
-## Parallel computing
+## Parallel Computing
 
 * [DCompute](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
 * [DerelictCUDA](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
@@ -529,28 +523,28 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Print with care.*
 
-- [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility.
-- [dlogg](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, [logrotate](https://linux.die.net/man/8/logrotate) support.
+* [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility.
+* [dlogg](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, [logrotate](https://linux.die.net/man/8/logrotate) support.
 
 ## Configuration
 
 *Parsing configuration files.*
 
-- [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
-- [D:YAML](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
-- [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+* [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+* [D:YAML](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
+* [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## Blog Engine
 
 *Hosting blogs yourself.*
 
-- [mood](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
+* [mood](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
 
 ## Dependency Injection
 
 *Apply inversion of control.*
 
-- [Poodinis](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
+* [Poodinis](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
 
 ## Unmaintained
 
