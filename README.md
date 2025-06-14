@@ -65,7 +65,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Language Processing](#language-processing)
 * Others
 	* [Text Processing](#text-processing)
-	* [Command Line](#command-line)
 	* [Logging](#logging)
 	* [Configuration](#configuration)
 	* [BlogEngine](#blog-engine)
