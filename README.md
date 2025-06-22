@@ -40,9 +40,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Core Utilities](#core-utilities)
 * Networking/Web
 	* [Web Frameworks](#web-frameworks)
-	* [Data & Serialization](#data-serialization)
+	* [Data Serialization](#data-serialization)
 * Database
-	* [Database clients](#database-clients)
+	* [Database Clients](#database-clients)
 * CLI
 	* [CLI Libraries](#cli-libraries)
 	* [CLI Applications](#cli-applications)
@@ -318,16 +318,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [DSSG](https://github.com/kambrium/dssg) - A static site generator with a different approach.
 
-## Data serialization
+## Data Serialization
 
-*Json, XML, protobuf and other data serialization libs.*
-
-### Binary Serilization
+*JSON, XML, protobuf and other data serialization libraries.*
 
 * [cerealed](https://github.com/atilaneves/cerealed)  - Serialisation library for D 
 * [dproto](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
-### JSON
+*JSON libraries.*
 
 * [vibe.data.json](https://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
 * [fast.json](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
@@ -336,14 +334,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [std.data.json](https://github.com/dlang-community/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
 * [asdf](https://github.com/libmir/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisation.
 
-### XML
+*XML libraries.*
 
 * [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 * [std.experimental.xml](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 * arsd [dom.d](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
 * [newxml](https://github.com/ZILtoid1991/newxml) - Successor of std.experimental.xml. DOM compatible, and also has a SAX parser.
 
-## Database clients
+## Database Clients
 
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
