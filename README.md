@@ -26,21 +26,21 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [IDEs & Editors](#ides--editors)
 	* [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
 	* [Preprocessors](#preprocessors)
-	* [Version Manager](#version-manager)
+	* [Version Managers](#version-managers)
+* Continuous Integration
+	* [GitHub Actions](#github-actions)
+	* [Testing Frameworks](#testing-frameworks)
 * Compiler for Other Languages
 	* [Javascript](#javascript)
 * OS
 	* [Operating Systems](#operating-systems)
 	* [Bare Metal/Kernel Development](#bare-metalkernel-development)
-* Common/Utilities
-	* [Basic](#basic)
-	* [Containers](#containers)
-* Continuous Integration
-	* [GitHub Actions](#github-actions)
-	* [Testing Frameworks](#testing-frameworks)
-* Networking/Web Related
+* Common
+	* [General Containers](#general-containers)
+	* [Core Utilities](#core-utilities)
+* Networking/Web
 	* [Web Frameworks](#web-frameworks)
-	* [Data&Serialization](#data-serialization)
+	* [Data & Serialization](#data-serialization)
 * Database
 	* [Database clients](#database-clients)
 * CLI
@@ -240,12 +240,24 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [warp](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
-## Version Manager
+## Version Managers
 
 * [dvm](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
 * [ldcup](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
 
+
+## GitHub Actions
+
+* [setup-dlang](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+* [dub-upgrade](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+
+## Testing Frameworks
+
+* [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+* [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+
 ## Javascript
+
 * [higgs](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
 ## Operating Systems
@@ -264,28 +276,22 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github](https://github.com/xomboverlord/xomb/tree/unborn).
 * [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
-## Basic
+## General Containers
 
-* [NuMem](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
-* [NuLib](https://github.com/Inochi2D/nulib) - D "standard" library built ontop of numem.
-* [Joka](https://github.com/Kapendev/joka) - A nogc utility library.
-
-## Containers
+*Data structures and container libraries.*
 
 * [EMSI containers](https://github.com/dlang-community/containers) - Containers that do not use the GC 
 * [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
 * [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 * [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
-## GitHub Actions
+## Core Utilities
 
-* [setup-dlang](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
-* [dub-upgrade](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+*General-purpose utility libraries.*
 
-## Testing Frameworks
-
-* [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
-* [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+* [NuMem](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
+* [NuLib](https://github.com/Inochi2D/nulib) - D "standard" library built ontop of numem.
+* [Joka](https://github.com/Kapendev/joka) - A nogc utility library.
 
 ## Web Frameworks
 
