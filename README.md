@@ -157,7 +157,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [This week in D](https://dpldocs.info/this-week-in-d/Blog.html) - A weekly overview of activity in the D community and brief advice columns to help you get the most out of the D Programming Language. 
 * [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
 * [D Idioms](https://p0nce.github.io/d-idioms/) - A great blog for many useful idioms with D programming.
-* [GTK-D coding](https://gtkdcoding.com/) - Simple examples of how to use GtkD to build GUI applications.
+* [GTK-D coding](https://web.archive.org/web/20241201013031/https://gtkdcoding.com/) - Simple examples of how to use GtkD to build GUI applications.
 * [Tasty D](https://tastyminerals.github.io/tasty-blog/) - A blog about learning the D programming language and various D language trivia.
 
 ## Articles
@@ -382,6 +382,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [giD](https://github.com/Kymorphia/gid) - GObject Introspection D Package Repository.
 * [Fluid](https://git.samerion.com/Samerion/Fluid) - A declarative cross-platform user interface library for D.
 * [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide).
+* [microui-D](https://github.com/Kapendev/microui-d) - A tiny immediate-mode UI library.
 * [GtkD](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 * [dqml](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
@@ -507,7 +508,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
 * [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 * [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
-* [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
 
 ### Language Processing
 
