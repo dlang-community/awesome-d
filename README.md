@@ -20,7 +20,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * Language Related
 	* [Package Management](#package-management)
 	* [Compilers](#compilers)
-	* [WIP Compilers](#wip-compilers)
+	* [Alternative / WIP Compilers](#alternative--wip-compilers)
 	* [Dev Tools](#dev-tools)
 	* [Build Tools](#build-tools)
 	* [IDEs & Editors](#ides--editors)
@@ -69,6 +69,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Configuration](#configuration)
 	* [BlogEngine](#blog-engine)
 	* [Dependency Injection](#dependency-injection)
+	* [Cryptography](#cryptography)
 	* [Unmaintained](#unmaintained)
 
 ## Official Website
@@ -180,15 +181,18 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
  
 ## Compilers
 
-*Compile software from source code.*
+*Official compilers for the D language.*
 
 * [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 * [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
-## WIP Compilers
+## Alternative / WIP Compilers
 
-* [sdc](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
+*These compilers may differ from or be incompatible with the official set of tools.*
+
+* [SDC](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
+* [OpenD](https://opendlang.org/index.html) - A fork of the D language with built-in libraries.
 
 ## Dev Tools
 
@@ -545,6 +549,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Apply inversion of control.*
 
 * [Poodinis](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
+
+## Cryptography
+
+* [Botan](https://github.com/etcimon/botan) - Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.
+* [OpenSSL](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for OpenSSL.
+* [Crypto](https://github.com/shove70/crypto) - A D Library of encryption, decryption, encode, hash, and message digital signatures.
 
 ## Unmaintained
 
