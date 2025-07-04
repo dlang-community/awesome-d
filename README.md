@@ -24,7 +24,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Dev Tools](#dev-tools)
 	* [Build Tools](#build-tools)
 	* [IDEs & Editors](#ides--editors)
-	* [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
+	* [Lexers, Parsers & Generators](#lexers-parsers--generators)
 	* [Preprocessors](#preprocessors)
 	* [Version Managers](#version-managers)
 * Continuous Integration
@@ -34,11 +34,11 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Javascript](#javascript)
 * OS
 	* [Operating Systems](#operating-systems)
-	* [Bare Metal/Kernel Development](#bare-metalkernel-development)
+	* [Bare Metal / Kernel Development](#bare-metal--kernel-development)
 * Common
 	* [General Containers](#general-containers)
 	* [Core Utilities](#core-utilities)
-* Networking/Web
+* Networking / Web
 	* [Web Frameworks](#web-frameworks)
 	* [Data Serialization](#data-serialization)
 * Database
@@ -72,27 +72,27 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Cryptography](#cryptography)
 	* [Unmaintained](#unmaintained)
 
-## Official Website
+## Official Websites
 
-*Official Website URLs.*
+*Official website URLs for D.*
 
 * [dlang.org](https://dlang.org) - Official website for D.
-* [wiki.dlang.org](https://wiki.dlang.org) - Official Wiki for D.
-* [code.dlang.org](https://code.dlang.org) - Offical Library/Module Registry for D.
-* [Github Organization](https://github.com/dlang) - Official GitHub organization for D. Repo for all official D tools & code.
-* [forum.dlang.org](https://forum.dlang.org/) - Official forum. Many interesting discussions occurring on a daily basis.
-* [blog.dlang.org](https://dlang.org/blog/) - Official blog.
-* [Language Specification](https://dlang.org/spec/spec.html) - D programming language specification.
-* [Issue tracking](https://issues.dlang.org/) - Official issue tracking/reporting system for D. If you find bugs in the D compiler and/or libraries, please come and report them!
+* [wiki.dlang.org](https://wiki.dlang.org) - Official wiki for D.
+* [blog.dlang.org](https://dlang.org/blog/) - Official blog for D.
+* [forum.dlang.org](https://forum.dlang.org/) - Official forum for D. Many interesting discussions occurring on a daily basis.
+* [code.dlang.org](https://code.dlang.org) - Official library registry for D.
+* [GitHub organization](https://github.com/dlang) - Official GitHub organization for D. Repository for all official D tools & code.
+* [Issue tracker](https://github.com/dlang) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
+* [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
 
 ## Getting Help
 
 *For when you're stuck.*
 
-* [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest traffic site for answering D questions.
-* [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than forums but possibly easier to search.
+* [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest-traffic site for getting D questions answered.
+* [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than the forums but possibly easier to search.
 * [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - Examples of how to do many basic things in D.
-* [D on Discord](https://discord.gg/invite/bMZk9Q4) - Another very active community for D conversations and question.
+* [D on Discord](https://discord.gg/invite/bMZk9Q4) - Another very active community for D discussions and questions.
 
 ## People
 
@@ -101,11 +101,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Walter Bright](https://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
 * [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
 * [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/).
-* **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. 
+* **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that make D awesome.
 
 ## Events
 
-* [DConf](https://dconf.org/) - the premier event where D luminaries exchange knowledge, insight, and inspiration on everything related to the D language and its ecosystem.
+* [DConf](https://dconf.org/) - The premier event where D luminaries exchange knowledge, insight, and inspiration on everything related to the D language and its ecosystem.
+* [Beerconf](https://wiki.dlang.org/Beerconf) - A casual, monthly virtual meetup for D community members.
 
 ## Organizations
 
@@ -230,7 +231,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [DCD](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [serve-d](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 
-## Lexers, Parsers, Parser Generators
+## Lexers, Parsers & Generators
 
 * [libdparse](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
 * [Martin Nowak's Lexer](https://github.com/MartinNowak/lexer) - A lexer generator.
@@ -273,7 +274,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Trinix](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
-## Bare Metal/Kernel Development
+## Bare Metal / Kernel Development
 
 * [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
 * [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
