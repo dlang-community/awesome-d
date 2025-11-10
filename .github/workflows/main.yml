@@ -16,7 +16,7 @@ jobs:
       run: gem install awesome_bot
     - name: Run Awesome Bot
       run: awesome_bot README.md --request-delay 1 --allow-dupe -w wiki.dlang.org,amazon.com,sciter.com,github.com/dlang-community/awesome-d/edit/master/README.md
-    - uses: actions/upload-artifact@v1
+    - uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: ab-results
