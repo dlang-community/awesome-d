@@ -224,7 +224,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [IntelliJ D Language](https://intellij-dlanguage.github.io/) - Support for the D programming language within IntelliJ IDEA.
 * [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
-* [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]</sup> - Visual Studio Code extension using serve-d
+* [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) - Visual Studio Code extension using serve-d
 * [ide-d](https://packages.pulsar-edit.dev/packages/ide-d) - Pulsar (fork of Atom) extension for D using serve-d
 * [DCD](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [serve-d](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
@@ -424,13 +424,13 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Zstandard](https://github.com/ZILtoid1991/bindbc-zstandard) - Fast compression
 	* [nanomsg-next-gen](https://github.com/darkridder/bindbc-nng) - Messaging library
 	* [OpenAL](https://github.com/BindBC/bindbc-openal) - Audio library
-	* [SoLoud](https://github.com/gecko0307/bindbc-soloud) - Audio library
+	* [SoLoud](https://github.com/DLangGamedev/bindbc-soloud) - Audio library
 	* [KiWi](https://github.com/aferust/bindbc-kiwi) - UI widget toolkit
 	* [NanoVG](https://github.com/aferust/bindbc-nanovg) - Vector graphics
 	* [Blend2D](https://github.com/kdmult/bindbc-blend2d) - Vector graphics
 	* [Lua](https://github.com/BindBC/bindbc-lua) - Scripting language
 	* [JoyShockLibrary](https://github.com/ZILtoid1991/bindbc-JSL) - Gamepad/Gyro input
-	* [Newton Dynamics](https://github.com/gecko0307/bindbc-newton) - Physics library
+	* [Newton Dynamics](https://github.com/DLangGamedev/bindbc-newton) - Physics library
 	* [FreeImage](https://github.com/BindBC/bindbc-freeimage) - Image loading
 	* [FreeType](https://github.com/BindBC/bindbc-freetype) - Font rendering
 	* [HarfBuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz) - Text shaping
