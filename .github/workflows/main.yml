@@ -9,13 +9,13 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Set up Ruby
-      uses: ruby/setup-ruby@v1.143.0
+      uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7.7
     - name: Install Awesome Bot
       run: gem install awesome_bot
     - name: Run Awesome Bot
-      run: awesome_bot README.md --request-delay 1 --allow-dupe -w wiki.dlang.org,amazon.com,sciter.com,github.com/dlang-community/awesome-d/edit/master/README.md
+      run: awesome_bot README.md --request-delay 1 --allow-dupe -w wiki.dlang.org,amazon.com,sciter.com,github.com/dlang-community/awesome-d/edit/master/README.md,reddit.com,dl.acm.org
     - uses: actions/upload-artifact@v4
       if: failure()
       with:
