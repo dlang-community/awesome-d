@@ -32,8 +32,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Testing Frameworks](#testing-frameworks)
 * Compiler for Other Languages
 	* [Javascript](#javascript)
-* Interpreters for Other Languages
-  	* [Interpreters](#interpreters)
+   	* [Interpreters](#interpreters)
 * OS
 	* [Operating Systems](#operating-systems)
 	* [Bare Metal / Kernel Development](#bare-metal--kernel-development)
