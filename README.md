@@ -32,6 +32,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [Testing Frameworks](#testing-frameworks)
 * Compiler for Other Languages
 	* [Javascript](#javascript)
+* Interpreters for Other Languages
+  	* [interpreters](#interpreters)
 * OS
 	* [Operating Systems](#operating-systems)
 	* [Bare Metal / Kernel Development](#bare-metal--kernel-development)
@@ -264,6 +266,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
 
+## Interpreters
+* [Glang](https://github.com/pouyathe/glang) - Interpreter for G programming language.
 ## Operating Systems
 
 *Operating Systems written in D.*
@@ -558,8 +562,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Botan](https://github.com/etcimon/botan) - Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.
 * [OpenSSL](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for OpenSSL.
 * [Crypto](https://github.com/shove70/crypto) - A D Library of encryption, decryption, encode, hash, and message digital signatures.
-## Interpreters
-* [G Programming language](https://github.com/pouyathe/glang)
+
 ## Unmaintained
 
 *Old or archived projects saved for reference.*
