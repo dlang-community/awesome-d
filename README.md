@@ -31,7 +31,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [GitHub Actions](#github-actions)
 	* [Testing Frameworks](#testing-frameworks)
 * Compiler for Other Languages
-	* [Languages Made With D](#languages-made-with-d)
+	* [Javascript](#javascript)
 * OS
 	* [Operating Systems](#operating-systems)
 	* [Bare Metal / Kernel Development](#bare-metal--kernel-development)
@@ -260,7 +260,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
 * [fluent-asserts](https://github.com/gedaiu/fluent-asserts) - Fluent assertion framework with expressive syntax and detailed error messages.
 
-## Languages Made With D
+## Javascript
 
 * [higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
 * [Glang](https://github.com/pouyathe/glang) - Interpreter for G programming language.
