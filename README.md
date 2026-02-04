@@ -265,7 +265,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Programming languages written in D.*
 
 * [higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
-* [Glang](https://github.com/pouyathe/glang) - Interpreter for G programming language.
 
 ## Operating Systems
 
