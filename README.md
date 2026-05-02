@@ -543,7 +543,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [sdlang](https://github.com/dlang-community/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 * [D:YAML](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
-* [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+* [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writer generator for D
 
 ## Blog Engine
 
