@@ -8,6 +8,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * Basic Information
 	* [Official Website](#official-website)
+		* [Status Page](#status-page)
 	* [Getting Help](#getting-help)
 	* [People](#people)
 	* [Events](#events)
@@ -84,6 +85,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [GitHub organization](https://github.com/dlang) - Official GitHub organization for D. Repository for all official D tools & code.
 * [Issue tracker](https://github.com/dlang) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
 * [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
+
+### Status page
+
+*Unofficial, run by the community.*
+
+* [status.dlang.rocks](https://status.dlang.rocks) - Public infrastructure monitoring of services associated with or used by the D Language Foundation and its project contributors.
 
 ## Getting Help
 
