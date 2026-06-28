@@ -273,7 +273,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
 * [brainfuck-d](https://codeberg.org/GuineaPigUuhh/brainfuck-d) - Brainfuck interpreter, compiler and REPL written in D.
-* [arsd.script](https://github.com/adamdruppe/arsd/blob/master/script.d) - A small script interpreter that builds on *arsd.jsvar* to be easily embedded inside and to have has easy two-way interop with the host D program.
+* [arsd.script](https://github.com/adamdruppe/arsd/blob/master/script.d) - A small script interpreter that builds on *arsd.jsvar* to be easily embedded inside and to have easy two-way interop with the host D program.
 
 ## Operating Systems
 
