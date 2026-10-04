@@ -417,7 +417,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Sorting Algorithms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
 * [Crimson](https://codeberg.org/GuineaPigUuhh/crimson/) - Simple text editor.
 * [dterm](https://codeberg.org/dejan/dterm) - A minimalistic terminal emulator written in D using GTK4 and VTE.
-* [Daphne](https://codeberg.org/Kymorphia/daphne-music) - Advanced audio player and music library manager written in D using giD (GTK 4 and GStreamer).
+* [Daphne](https://codeberg.org/Kymorphia/daphne-music) - Advanced audio player and music library manager written in D using [giD](https://github.com/Kymorphia/gid) (GTK 4 and GStreamer).
 
 ## Game Bindings
 
