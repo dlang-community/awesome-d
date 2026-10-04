@@ -128,7 +128,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/workspace/repositories/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 * [libmir](https://github.com/libmir) - D's numeric library development team
 * [sociomantic labs](https://github.com/sociomantic-tsunami) - Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the [annual D language conference](https://dconf.org/). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) organization.
-* [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://blog.dlang.org/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://blog.dlang.org/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm), and various other projects.
+* [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://saoc.io/). Have sponsored the development of [excel-d](https://blog.dlang.org/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm), and various other projects.
 * [HuntLabs](https://github.com/huntlabs) - A technology group using DLang. Have pure D language implementation of quickly develop server-side applications and build distributed system services.
 
 ## Books
@@ -160,7 +160,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *D related blogs.*
 
-* [blog.dlang.org](https://dlang.org/blog/) - Official blog.
+* [blog.dlang.org](https://blog.dlang.org/) - Official blog.
 * [/r/d_language on Reddit](https://www.reddit.com/r/d_language/) - A feed of news and blog posts about D.
 * [This week in D](https://dpldocs.info/this-week-in-d/Blog.html) - A weekly overview of activity in the D community and brief advice columns to help you get the most out of the D Programming Language.
 * [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
