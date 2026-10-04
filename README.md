@@ -470,6 +470,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [text-mode](https://github.com/AuburnSounds/text-mode) - Virtual text mode with 8x8 Unicode font and markup language.
 * [gfm](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [wasip1libc-d](https://github.com/Kapendev/wasip1libc-d) - A minimal WASI Preview 1 libc + browser host.
+* [raylib-d-template](https://github.com/Kapendev/raylib-d-template) - A simple template for raylib-d projects.
 
 *Libraries for 2D-related projects.*
 
