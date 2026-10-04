@@ -83,7 +83,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [forum.dlang.org](https://forum.dlang.org/) - Official forum for D. Many interesting discussions occurring on a daily basis.
 * [code.dlang.org](https://code.dlang.org) - Official library registry for D.
 * [GitHub organization](https://github.com/dlang) - Official GitHub organization for D. Repository for all official D tools & code.
-* [Issue tracker](https://github.com/dlang) – Official issue tracker for D.
+* [Issue tracker](https://github.com/dlang) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
 * [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
 
 ### Status page
