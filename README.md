@@ -463,15 +463,16 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Game Libraries
 
-*D libraries for game development.*
+*General utilities.*
 
 * [InMath](https://github.com/Inochi2D/inmath) - Games math library for D.
 * [godot-math](https://github.com/AuburnSounds/godot-math) - A D port of Godot's linear algebra with unchanged semantics.
 * [text-mode](https://github.com/AuburnSounds/text-mode) - Virtual text mode with 8x8 Unicode font and markup language.
+* [gfm](https://github.com/drug007/gfm7) - D gamedev toolkit.
+* [wasip1libc-d](https://github.com/Kapendev/wasip1libc-d) - A minimal WASI Preview 1 libc + browser host.
 
 *Libraries for 2D-related projects.*
 
-* [gfm](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine.
 * [PixelPerfectEngine](https://github.com/ZILtoid1991/pixelperfectengine) - 2D graphics engine written in D.
 * [HipremeEngine](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support.
