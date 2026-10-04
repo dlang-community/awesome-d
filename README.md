@@ -390,6 +390,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [tshare](https://github.com/trikko/tshare) - Fast file sharing from cli, using transfer.sh.
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise).
 * [Soulfind](https://github.com/soulfind-dev/soulfind) - Soulseek server implementation in D.
+* [websitino](https://github.com/trikko/websitino) - Single-binary static file server for local development, with directory listing, Markdown rendering and https.
 
 ## GUI Libraries
 
@@ -581,6 +582,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Botan](https://github.com/etcimon/botan) - Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.
 * [OpenSSL](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for OpenSSL.
 * [Crypto](https://github.com/shove70/crypto) - A D Library of encryption, decryption, encode, hash, and message digital signatures.
+* [neverstored](https://github.com/trikko/neverstored) - Hand a secret to someone without ever storing it, end-to-end encrypted between two browsers.
 
 ## Unmaintained
 
