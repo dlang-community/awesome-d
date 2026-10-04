@@ -113,6 +113,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## Events
 
 * [DConf](https://dconf.org/) - The premier event where D luminaries exchange knowledge, insight, and inspiration on everything related to the D language and its ecosystem.
+* [D Programming Language Symposium](https://dlangsymposium.com/) - A two-day symposium on the D language featuring a colloquium and talks.
 * [Beerconf](https://wiki.dlang.org/Beerconf) - A casual, monthly virtual meetup for D community members.
 
 ## Organizations
