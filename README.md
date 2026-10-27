@@ -423,6 +423,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [dterm](https://codeberg.org/dejan/dterm) - A minimalistic terminal emulator written in D using GTK4 and VTE.
 * [Daphne](https://codeberg.org/Kymorphia/daphne-music) - Advanced audio player and music library manager written in D using [giD](https://github.com/Kymorphia/gid) (GTK 4 and GStreamer).
 * [Veb](https://codeberg.org/ddn/veb) - Minimal, tabbed web browser written in D using [giD](https://github.com/Kymorphia/gid) (GTK4, libadwaita, WebKitGTK 6).
+* [hackerscad](https://hackerscad.com) - Parametric CAD where the model is code. Written in D, it uses a small subset of D itself as its scripting language.
 
 ## Game Bindings
 
